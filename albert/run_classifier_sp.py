@@ -384,7 +384,10 @@ class SarcasmProcessor(DataProcessor):
                 continue
             guid = "%s-%s" % (set_type, i)
             text = tokenization.preprocess_text(line[1], lower=FLAGS.do_lower_case)
-            label = tokenization.preprocess_text(line[0])
+            if set_type == "test":
+                label = "0"
+            else:
+                label = tokenization.preprocess_text(line[0])
             examples.append(
                 InputExample(guid=guid, text_a=text, text_b=None, label=label))
         return examples
