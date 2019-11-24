@@ -1,0 +1,321 @@
+Failed in: clinton campaign launches 'latinos for hillary'
+ Expected: 0
+Failed in: widower finds pic of wife in wedding dress he never got to see her wear
+ Expected: 0
+Failed in: get clarity on what the future holds so you can go back to worrying about costume ideas.
+ Expected: 1
+Failed in: 142 plane crash victims were statistically more likely to have died in a car crash
+ Expected: 1
+Failed in: what grieving widow needs is a day at the spa
+ Expected: 1
+Failed in: charlize theron welcomes second child
+ Expected: 0
+Failed in: maya angelou, poet, author, civil rights activist, and\u2014holy cow\u2014tony award\u2013nominated actress, college professor, magazine editor, streetcar conductor\u2014really? streetcar conductor? wow\u2014calypso singer, nightclub performer, and foreign journalist, dead at 86
+ Expected: 1
+Failed in: kevin spacey responds to assault allegations by seeking treatment for homosexuality
+ Expected: 1
+Failed in: baby crow's first word 'caw'
+ Expected: 1
+Failed in: trump boys swallow luggage keys in case they get locked up in jail and need to escape
+ Expected: 1
+Failed in: proposed immigration law calls for u.s. to shut down border slide
+ Expected: 1
+Failed in: kansas city-area waiter gets world series ticket as a tip
+ Expected: 0
+Failed in: gina haspel briefs senators on saudis' 'shockingly uninspired' khashoggi interrogation
+ Expected: 1
+Failed in: tower of human skulls casts new light on aztecs
+ Expected: 0
+Failed in: colleges send out reminder to graduates that 2008 degrees about to expire
+ Expected: 1
+Failed in: who's the old guy at lollapalooza?
+ Expected: 0
+Failed in: chris collins thanks supporters with can't-miss tip on biotech stock
+ Expected: 1
+Failed in: snl praised for 'draw muhammad' skit
+ Expected: 0
+Failed in: bear's plan to break into man's home foiled by cat door
+ Expected: 0
+Failed in: breakroom tension at all-time high following mug dispute
+ Expected: 1
+Failed in: kanye west announces his new name is tim
+ Expected: 1
+Failed in: himalayan goat dies following failed everest climb
+ Expected: 1
+Failed in: 340 million social security numbers obtained by federal government in massive personal data breach
+ Expected: 1
+Failed in: dog who successfully detected cancer in owner put down for practicing medicine without a license
+ Expected: 1
+Failed in: new chrome extension blocks out names, photos of mass shooters
+ Expected: 0
+Failed in: native american boy pulled from class over mohawk hairstyle
+ Expected: 0
+Failed in: paul ryan calls on trump to take dismantling of america more seriously
+ Expected: 1
+Failed in: cancer lobbies for decreased cancer funding
+ Expected: 1
+Failed in: scientists confirm there's nothing but misinformation on anti-vax sites
+ Expected: 0
+Failed in: fed-up eu rejects united kingdom, gives british 30 days to vacate europe
+ Expected: 1
+Failed in: house conservatives introduce resolution to impale rod rosenstein
+ Expected: 1
+Failed in: cnn releases photos of 3 obese mexican women suspected in boston bombing
+ Expected: 1
+Failed in: giuliani puts odds of trump-mueller interview at 50-65
+ Expected: 1
+Failed in: teen accepted into 113 colleges chooses full ride to hbcu
+ Expected: 0
+Failed in: horseconnect, the social network for horses, bought for $1 billion
+ Expected: 1
+Failed in: violence erupts across france as citizens protest high cost of refilling cr\u00e8me br\u00fbl\u00e9e torches
+ Expected: 1
+Failed in: librarian who amassed millions by living humbly leaves entire fortune to college
+ Expected: 0
+Failed in: 7 total randos found dead
+ Expected: 1
+Failed in: philadelphia goes way overboard on 9/11 security for liberty bell
+ Expected: 1
+Failed in: 95 killed in rush for free flames in nigerian tanker fire
+ Expected: 1
+Failed in: kirstjen nielsen urges migrant parents leave the weak ones behind
+ Expected: 1
+Failed in: jimmy fallon announces new children's book
+ Expected: 0
+Failed in: alabama governor signs new 'heartbeat bill' lowering state's age of consent
+ Expected: 1
+Failed in: military apologizes after drone strike intended for yemeni isis base accidentally hits west palm beach wedding
+ Expected: 1
+Failed in: frank gehry: is music liquid architecture?
+ Expected: 0
+Failed in: chris farley has hilarious cardiac arrest
+ Expected: 1
+Failed in: pope francis on vatican abuse scandal: 'just tell me whose feet to wash'
+ Expected: 1
+Failed in: samuel adams apologizes for 'boston sucks' pilsner
+ Expected: 1
+Failed in: title ix administrators discuss emotional demands of job
+ Expected: 0
+Failed in: football-loving americans harassed for wearing turbans to nfl game
+ Expected: 0
+Failed in: martin luther king jr. day celebrates 30th anniversary
+ Expected: 0
+Failed in: coast guard terror suspect released after cell needed for nonviolent drug user
+ Expected: 1
+Failed in: de blasio courts iowa voters by winning 'largest candidate' at polk county fair
+ Expected: 1
+Failed in: ohio state puts urban meyer on paid secret coaching leave
+ Expected: 1
+Failed in: mexican program aims to reach drug lords before they get caught up in cartels
+ Expected: 1
+Failed in: mike pence condemns atheists, homosexuals, and feminists for role in forcing god to punish america on 9/11
+ Expected: 1
+Failed in: that one mcdonald's plate from the '70s: holy shit, there it is
+ Expected: 1
+Failed in: viral facebook post reminds dudes not every woman wants to talk to them
+ Expected: 0
+Failed in: george w. bush interrupted obama to ask him to snap a picture of him and it was amazing
+ Expected: 0
+Failed in: security camera films meteor streaking across ohio sky
+ Expected: 0
+Failed in: israel calls for increase in u.s. taxes to fund attacks on gaza
+ Expected: 1
+Failed in: 'new york times' rehires judith miller to cover escalating iran tensions
+ Expected: 1
+Failed in: justin timberlake tells jessica biel no one will believe her
+ Expected: 1
+Failed in: new internet radio station modeled on heyday of fm radio
+ Expected: 0
+Failed in: missing mount everest climbers feared buried under avalanche of dead mount everest climbers
+ Expected: 1
+Failed in: senator to try submitting rejected bill to canadian parliament
+ Expected: 1
+Failed in: disney's 'toy tales' hits theaters friday
+ Expected: 1
+Failed in: leaked footage reveals grisly scene where detective pikachu examines jigglypuff's corpse at morgue
+ Expected: 1
+Failed in: rudy giuliani backtracks on previous statements referring to 9/11 as tragedy
+ Expected: 1
+Failed in: nestl\u00e9 recalls millions of frozen products that may contain glass
+ Expected: 0
+Failed in: trump boys smash father's cell phone to search for chinese spies
+ Expected: 1
+Failed in: petco employee stocks gerbils by the cash register for impulse purchases
+ Expected: 1
+Failed in: trump speaker warms up crowd with bizarre hillary-huma death fantasy
+ Expected: 0
+Failed in: $30 million donation from chan-zuckerberg charity to help kids learn to read returned
+ Expected: 1
+Failed in: comey warns democrats that having leftist politics gets you on the fbi watchlist
+ Expected: 1
+Failed in: unpaid student-athletes forced to give back the $7 they got for laser tag
+ Expected: 0
+Failed in: train passengers defend elderly asian couple from racist tirade
+ Expected: 0
+Failed in: 4 out of 5 texas dentists advocate the death penalty
+ Expected: 1
+Failed in: anti-vaxxers have neil degrasse tyson worried
+ Expected: 0
+Failed in: endangered wildlife to be given new identities in species protection program
+ Expected: 1
+Failed in: alabama cracks down on abortions by outlawing all medical procedures
+ Expected: 1
+Failed in: mccain campaign nabs top obama pun writer
+ Expected: 1
+Failed in: saudi prince visits injured yemeni child in hospital to finish the job
+ Expected: 1
+Failed in: appeals court blocks d.c. gun law restricting concealed carry
+ Expected: 0
+Failed in: so-called 'atheist' doesn't even barge into churches screaming 'you're all brainwashed fools'
+ Expected: 1
+Failed in: israel retroactively legalizes 4,000 settler homes
+ Expected: 0
+Failed in: trump invites supporter, bbc cameraman to finish altercation at white house
+ Expected: 1
+Failed in: freddie prinze jr. recovers
+ Expected: 0
+Failed in: floyd mayweather jr. stripped of title from manny pacquiao fight
+ Expected: 0
+Failed in: new york state inches closer to single-payer plan with pickup of new support
+ Expected: 0
+Failed in: nra says mass shootings just the unfortunate price of protecting people's freedom to commit mass shootings
+ Expected: 1
+Failed in: rick scott orders hurricane michael to evacuate from florida
+ Expected: 1
+Failed in: twelve more pie-fucking movies in the works
+ Expected: 1
+Failed in: meet the other baldwin brother, james!
+ Expected: 1
+Failed in: garbage truck scoops up man looking for wallet
+ Expected: 0
+Failed in: united airlines skips senate deadline to explain passenger-dragging incident
+ Expected: 0
+Failed in: trump administration denies president was behind jared kushner's promotion to 4-star general
+ Expected: 1
+Failed in: 'new york times' corrects story by admitting they burned venezuela aid convoy
+ Expected: 1
+Failed in: ice launches campaign to reunite immigrant children with arresting officer
+ Expected: 1
+Failed in: hootie and the blowfish: breaking down racial barriers between black, white pussies
+ Expected: 1
+Failed in: son of edward r. murrow says father 'real dirtbag' compared to onion reporters
+ Expected: 1
+Failed in: obama's fifth gulf coast visit really helps a lot
+ Expected: 1
+Failed in: elton john wows mother theresa funeral crowd with 'the bitch is back\"
+ Expected: 1
+Failed in: bob iger: at disney, we live every day in terror that you'll turn on superhero movies
+ Expected: 1
+Failed in: pat patriot denies being mascot #5 in prostitution sting police report
+ Expected: 1
+Failed in: merrick garland tears up during fifth grade commencement address
+ Expected: 0
+Failed in: detectives overlooked casey anthony's 'i killed my daughter' ama on reddit
+ Expected: 1
+Failed in: selfless cop escorts adorable family of ducklings across busy street
+ Expected: 0
+Failed in: lebron james guarantees cleveland will win numerous regular season games
+ Expected: 1
+Failed in: stan lee, creator of beloved marvel character stan lee, dead at 95
+ Expected: 1
+Failed in: supreme court agrees to disagree on abortion issue
+ Expected: 1
+Failed in: taylor swift inspires 200 million fans to register to vote in tennessee
+ Expected: 1
+Failed in: wild-eyed marco rubio embarks in rowboat to help venezuela coup effort
+ Expected: 1
+Failed in: alabama forced to release thousands of sex offenders after inmates deny charges
+ Expected: 1
+Failed in: swarthmore college president surprises community
+ Expected: 0
+Failed in: garage orchestra hands out demo at boston philharmonic show
+ Expected: 1
+Failed in: trump blows up statue of liberty
+ Expected: 0
+Failed in: tucker carlson challenges alexandria ocasio-cortez to a date
+ Expected: 1
+Failed in: brad pitt called before congress to testify about bicep regimen
+ Expected: 1
+Failed in: romantic prince harry surprises meghan markle with family's heirloom colony
+ Expected: 1
+Failed in: conservative floridian enjoys living under sharia law more than he thought he would
+ Expected: 1
+Failed in: chuck schumer: 'the american people deserve a president who can more credibly justify war with iran'
+ Expected: 1
+Failed in: bruce springsteen accidentally plays 'big government's stealin' our livelihood' at obama rally
+ Expected: 1
+Failed in: guard dog in training notices very suspicious-looking dog in mirror
+ Expected: 0
+Failed in: tornado creeped out by man who keeps following it in truck and filming it
+ Expected: 1
+Failed in: tesla announces major upgrade to original roadster
+ Expected: 0
+Failed in: catholic church brings in new perspective on solving abuse scandal with appointment of toddler bishop
+ Expected: 1
+Failed in: hare krishnas: 'hare krishna, hare krishna, krishna krishna, hare hare'
+ Expected: 1
+Failed in: isis laid booby-traps all over mosul to kill, injure returning civilians
+ Expected: 0
+Failed in: kitten valiantly attempts high five
+ Expected: 0
+Failed in: sanders ramps up spending in effort to catch up to hillary
+ Expected: 0
+Failed in: star wars news net joins hundreds of publications in condemning trump's attacks on the press
+ Expected: 1
+Failed in: everything you worked so hard for lying in splinters at your feet
+ Expected: 1
+Failed in: kanye west scrubs entire twitter account of any mention of trump
+ Expected: 0
+Failed in: jennifer lawrence stuns in oscar de la hoya gown
+ Expected: 1
+Failed in: bill and melinda scoggins foundation pledges $58 for charity
+ Expected: 1
+Failed in: tsa under fire over expensive, ineffective program
+ Expected: 0
+Failed in: john boehner calls for national guard to deal with illegal immigrants hiding in mexico
+ Expected: 1
+Failed in: former high-school bully pulls you over for speeding
+ Expected: 1
+Failed in: woman survives 7-story plunge from parking garage in bmw
+ Expected: 0
+Failed in: insiders blame rove for covering up iraq's real wmd
+ Expected: 0
+Failed in: treasury department renames building to honor emancipated slaves
+ Expected: 0
+Failed in: new mayor drives around in giant snail car
+ Expected: 0
+Failed in: kentucky police stop using 'punisher' logo after realizing what it means
+ Expected: 0
+Failed in: like boxes of shit in your house? get a cat
+ Expected: 1
+Failed in: 'stormy daniels day' declared in west hollywood as adult star gets key to city
+ Expected: 0
+Failed in: congress agrees to $1.3 billion for protective border fencers
+ Expected: 1
+Failed in: taylor swift mourns death of boyfriend christopher dorner
+ Expected: 1
+Failed in: mlb hoping to boost attendance at league meetings with 'star wars' night
+ Expected: 1
+Failed in: george zimmerman auctioning off gun used to kill trayvon martin
+ Expected: 0
+Failed in: tonight: house faces his greatest challenge yet
+ Expected: 1
+Failed in: investigation exposes ebay user for selling fake pulitzer medals
+ Expected: 1
+Failed in: amazon admits alexa device eavesdropped on portland family
+ Expected: 0
+Failed in: pope francis spotted sunbathing nude in st. peter's square
+ Expected: 1
+Failed in: sarah silverman channels joan rivers in heaven
+ Expected: 0
+Failed in: bee practically blows its load after seeing purple coneflower in full bloom
+ Expected: 1
+Failed in: clinton clinton
+ Expected: 1
+Failed in: mom saw a bunch of photos from women's march online
+ Expected: 1
+Failed in: hilarious moms lament never being in family photos
+ Expected: 0
+
+Accuracy: 0.9801943198804185
+Failed in 159 cases of 8028 headlines

@@ -1,0 +1,214 @@
+/home/juan/adeline/artemis/albert/venv/bin/python /home/juan/adeline/artemis/albert/get_accuracy.py
+Failed in: widower finds pic of wife in wedding dress he never got to see her wear
+ Expected: 0
+Failed in: get clarity on what the future holds so you can go back to worrying about costume ideas.
+ Expected: 1
+Failed in: what grieving widow needs is a day at the spa
+ Expected: 1
+Failed in: man hates it when other guys treat his girlfriend with respect
+ Expected: 1
+Failed in: kevin spacey responds to assault allegations by seeking treatment for homosexuality
+ Expected: 1
+Failed in: baby crow's first word 'caw'
+ Expected: 1
+Failed in: trump boys swallow luggage keys in case they get locked up in jail and need to escape
+ Expected: 1
+Failed in: competitive adidas unveils darren wilson as new face of brand
+ Expected: 1
+Failed in: colleges send out reminder to graduates that 2008 degrees about to expire
+ Expected: 1
+Failed in: house panel votes to keep congressional reports private
+ Expected: 0
+Failed in: chris collins thanks supporters with can't-miss tip on biotech stock
+ Expected: 1
+Failed in: christian pornographer refuses to film sex tape for gay couple
+ Expected: 1
+Failed in: student reporter hits it out of the park with 5 accurate sentences
+ Expected: 1
+Failed in: sharon's neurotransmitters reach cease-fire agreement
+ Expected: 1
+Failed in: kanye west announces his new name is tim
+ Expected: 1
+Failed in: himalayan goat dies following failed everest climb
+ Expected: 1
+Failed in: staples threatens to fire staff for working more than 25 hours a week
+ Expected: 0
+Failed in: angolan war criminal called in as character witness to manafort fraud trial
+ Expected: 1
+Failed in: saudis admit journalist khashoggi died during botched assassination attempt
+ Expected: 1
+Failed in: study reveals that girls who play princess grow up with skewed perceptions of the role of modern monarchy in a democratic society
+ Expected: 1
+Failed in: cancer lobbies for decreased cancer funding
+ Expected: 1
+Failed in: fed-up eu rejects united kingdom, gives british 30 days to vacate europe
+ Expected: 1
+Failed in: cnn releases photos of 3 obese mexican women suspected in boston bombing
+ Expected: 1
+Failed in: apple becomes first american company that should have paid trillion dollars in taxes
+ Expected: 1
+Failed in: giuliani puts odds of trump-mueller interview at 50-65
+ Expected: 1
+Failed in: colorado legalizes medicinal fireworks
+ Expected: 1
+Failed in: study can't confirm results of many psychology experiments
+ Expected: 0
+Failed in: 7 total randos found dead
+ Expected: 1
+Failed in: kirstjen nielsen urges migrant parents leave the weak ones behind
+ Expected: 1
+Failed in: chris farley has hilarious cardiac arrest
+ Expected: 1
+Failed in: pope francis on vatican abuse scandal: 'just tell me whose feet to wash'
+ Expected: 1
+Failed in: chicago st. patrick's day parade finally lifts ban on snakes
+ Expected: 1
+Failed in: strangely compelling 'shybot' roams california desert avoiding humans
+ Expected: 0
+Failed in: aliens in avocado super bowl ad think we're a bunch of dips
+ Expected: 0
+Failed in: de blasio courts iowa voters by winning 'largest candidate' at polk county fair
+ Expected: 1
+Failed in: ohio state puts urban meyer on paid secret coaching leave
+ Expected: 1
+Failed in: pool owner has bathing suit that touched his penis you can borrow
+ Expected: 1
+Failed in: mike pence condemns atheists, homosexuals, and feminists for role in forcing god to punish america on 9/11
+ Expected: 1
+Failed in: busy philipps consoles michelle williams on 10th anniversary of heath ledger's death
+ Expected: 0
+Failed in: poll finds 97% of americans don't know who donald trump is
+ Expected: 1
+Failed in: viral facebook post reminds dudes not every woman wants to talk to them
+ Expected: 0
+Failed in: republicans blame election losses on democrats
+ Expected: 1
+Failed in: 'new york times' rehires judith miller to cover escalating iran tensions
+ Expected: 1
+Failed in: new internet radio station modeled on heyday of fm radio
+ Expected: 0
+Failed in: palestinians prepare for massive ground invasion
+ Expected: 1
+Failed in: kfc blames popeyes for releasing serial rapist from prison in new attack ad campaign
+ Expected: 1
+Failed in: trump boys smash father's cell phone to search for chinese spies
+ Expected: 1
+Failed in: petco employee stocks gerbils by the cash register for impulse purchases
+ Expected: 1
+Failed in: comey warns democrats that having leftist politics gets you on the fbi watchlist
+ Expected: 1
+Failed in: trump warns china not to underestimate his willingness to sacrifice every american's well-being
+ Expected: 1
+Failed in: unpaid student-athletes forced to give back the $7 they got for laser tag
+ Expected: 0
+Failed in: senate leaders warn it too early to discuss trump
+ Expected: 1
+Failed in: 4 out of 5 texas dentists advocate the death penalty
+ Expected: 1
+Failed in: complete psychopath meets proper screen time, sleep, exercise guidelines
+ Expected: 1
+Failed in: rockstar games begins imprisoning programmers for 'red dead redemption 3'
+ Expected: 1
+Failed in: fox news reporter asks the questions others are too smart to ask
+ Expected: 1
+Failed in: freddie prinze jr. recovers
+ Expected: 0
+Failed in: obama slips 'hope' into speech for the fans
+ Expected: 1
+Failed in: nasa discovers impact crater of meteorite that first brought horses to earth
+ Expected: 1
+Failed in: rick scott orders hurricane michael to evacuate from florida
+ Expected: 1
+Failed in: on mars, who's in charge?
+ Expected: 0
+Failed in: twelve more pie-fucking movies in the works
+ Expected: 1
+Failed in: meet the other baldwin brother, james!
+ Expected: 1
+Failed in: trump administration denies president was behind jared kushner's promotion to 4-star general
+ Expected: 1
+Failed in: palestinians suspicious of al-aqsa surveillance promoted by kerry
+ Expected: 0
+Failed in: ice launches campaign to reunite immigrant children with arresting officer
+ Expected: 1
+Failed in: cory booker apologizes to wall street bankers for the mean things he's going to have to say about them
+ Expected: 1
+Failed in: hootie and the blowfish: breaking down racial barriers between black, white pussies
+ Expected: 1
+Failed in: next week's school shooting victims thank senate for failing to pass gun bill
+ Expected: 1
+Failed in: obama's fifth gulf coast visit really helps a lot
+ Expected: 1
+Failed in: bob iger: at disney, we live every day in terror that you'll turn on superhero movies
+ Expected: 1
+Failed in: last living california raisin dies of prostate cancer
+ Expected: 1
+Failed in: mayor of phoenix apologizes for naming berlin germany of 1941 as sister city
+ Expected: 1
+Failed in: you the newest subsidiary of kraft foods
+ Expected: 1
+Failed in: taylor swift accused of ripping off beyonc\u00e9 by giving birth to twins as part of billboard music awards performance
+ Expected: 1
+Failed in: beloved father and infrequent pornography user loses 3-year battle with cancer
+ Expected: 1
+Failed in: wild-eyed marco rubio embarks in rowboat to help venezuela coup effort
+ Expected: 1
+Failed in: twin wwii pilots celebrate 92nd birthdays with bird's eye view
+ Expected: 0
+Failed in: daily mail hits another low with sexist front page
+ Expected: 0
+Failed in: tucker carlson challenges alexandria ocasio-cortez to a date
+ Expected: 1
+Failed in: romantic prince harry surprises meghan markle with family's heirloom colony
+ Expected: 1
+Failed in: directions to ed's steak house
+ Expected: 1
+Failed in: tornado creeped out by man who keeps following it in truck and filming it
+ Expected: 1
+Failed in: secretary of education reveals she's forced to use own salary on yacht supplies
+ Expected: 1
+Failed in: tesla announces major upgrade to original roadster
+ Expected: 0
+Failed in: pope francis donates clothing to needy refugees
+ Expected: 1
+Failed in: lena dunham dings woody allen
+ Expected: 0
+Failed in: thandie newton recalls disgusting encounter with repulsive male director
+ Expected: 0
+Failed in: kitten valiantly attempts high five
+ Expected: 0
+Failed in: grandmother will live on in arguments over her wedding china
+ Expected: 1
+Failed in: star wars news net joins hundreds of publications in condemning trump's attacks on the press
+ Expected: 1
+Failed in: angry voters not soothed by clinton's policy prescriptions
+ Expected: 0
+Failed in: assistant manager accused of sexual indiscrimination
+ Expected: 1
+Failed in: cross-shaped wwi monument declared unconstitutional
+ Expected: 0
+Failed in: tsa under fire over expensive, ineffective program
+ Expected: 0
+Failed in: treasury department renames building to honor emancipated slaves
+ Expected: 0
+Failed in: karl rove ensures republican elected as student body president
+ Expected: 1
+Failed in: man has extra spring in his step after getting news that classmate moved home and stopped pursuing her dream
+ Expected: 1
+Failed in: high school custodian offers students inspired guidance
+ Expected: 0
+Failed in: amy klobuchar pledges to fight everyday americans
+ Expected: 1
+Failed in: fringe catholic sect doesn't tolerate child abuse
+ Expected: 1
+Failed in: like boxes of shit in your house? get a cat
+ Expected: 1
+Failed in: republicans holding out hope new chief of staff can restore order to chaotic white house
+ Expected: 0
+Failed in: rahm emanuel breaks ground on new jason van dyke police academy
+ Expected: 1
+Failed in: mom saw a bunch of photos from women's march online
+ Expected: 1
+
+Accuracy: 0.9869207772795217
+Failed in 105 cases of 8028 headlines

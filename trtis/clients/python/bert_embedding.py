@@ -58,6 +58,7 @@ def convert_single_example(example, max_seq_length, tokenizer):
             is_real_example=False)
 
     tokens_a = tokenizer.tokenize(example.text_a)
+
     tokens_b = None
     if example.text_b:
         tokens_b = tokenizer.tokenize(example.text_b)
@@ -107,6 +108,7 @@ def convert_single_example(example, max_seq_length, tokenizer):
         tokens.append("[SEP]")
         segment_ids.append(1)
 
+    print(tokens)
     input_ids = tokenizer.convert_tokens_to_ids(tokens)
 
     # The mask has 1 for real tokens and 0 for padding tokens. Only real
@@ -158,10 +160,11 @@ def create_examples(text):
 def get_embedding(text):
     max_seq_length = 128
     do_lower_case = True
-    vocab_file = "models/uncased_L-12_H-768_A-12/vocab.txt"
+    vocab_file = "/home/juan/adeline/artemis/bert-tf_1/models/uncased_L-12_H-768_A-12/vocab.txt"
     tokenizer = bert_tokenization.FullTokenizer(vocab_file=vocab_file, do_lower_case=do_lower_case)
-    text = "The world 's two largest automakers said their U.S. sales declined more than predicted last month as a late summer sales frenzy caused more of an industry backlash than expected .	Domestic sales at both GM and No. 2 Ford Motor Co. declined more than predicted as a late summer sales frenzy prompted a larger-than-expected industry backlash ."
+    #text = "The world 's two largest automakers said their U.S. sales declined more than predicted last month as a late summer sales frenzy caused more of an industry backlash than expected .	Domestic sales at both GM and No. 2 Ford Motor Co. declined more than predicted as a late summer sales frenzy prompted a larger-than-expected industry backlash ."
     predict = create_examples(text)
     return convert_single_example(predict, max_seq_length, tokenizer)
 
-get_embedding("")
+tmp = get_embedding("1\tceo unveils bold new plan to undo damage from last year's bold new plan")
+print(tmp.input_ids)

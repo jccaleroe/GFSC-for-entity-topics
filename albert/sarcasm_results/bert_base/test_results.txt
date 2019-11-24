@@ -1,0 +1,161 @@
+Failed in: get clarity on what the future holds so you can go back to worrying about costume ideas.
+ Expected: 1
+Failed in: 142 plane crash victims were statistically more likely to have died in a car crash
+ Expected: 1
+Failed in: kevin spacey responds to assault allegations by seeking treatment for homosexuality
+ Expected: 1
+Failed in: trump boys swallow luggage keys in case they get locked up in jail and need to escape
+ Expected: 1
+Failed in: gina haspel briefs senators on saudis' 'shockingly uninspired' khashoggi interrogation
+ Expected: 1
+Failed in: 'new york post' publishes report exposing alexandria ocasio-cortez's 9-figure social security number
+ Expected: 1
+Failed in: colleges send out reminder to graduates that 2008 degrees about to expire
+ Expected: 1
+Failed in: columbus day protests once again erupt as nation struggles with its dark, anti-italian past
+ Expected: 1
+Failed in: chris collins thanks supporters with can't-miss tip on biotech stock
+ Expected: 1
+Failed in: christian pornographer refuses to film sex tape for gay couple
+ Expected: 1
+Failed in: bear's plan to break into man's home foiled by cat door
+ Expected: 0
+Failed in: gop makes good on 2009 promise to block president's healthcare bill
+ Expected: 1
+Failed in: kanye west announces his new name is tim
+ Expected: 1
+Failed in: himalayan goat dies following failed everest climb
+ Expected: 1
+Failed in: 340 million social security numbers obtained by federal government in massive personal data breach
+ Expected: 1
+Failed in: angolan war criminal called in as character witness to manafort fraud trial
+ Expected: 1
+Failed in: dog who successfully detected cancer in owner put down for practicing medicine without a license
+ Expected: 1
+Failed in: saudis admit journalist khashoggi died during botched assassination attempt
+ Expected: 1
+Failed in: paul ryan calls on trump to take dismantling of america more seriously
+ Expected: 1
+Failed in: study reveals that girls who play princess grow up with skewed perceptions of the role of modern monarchy in a democratic society
+ Expected: 1
+Failed in: house conservatives introduce resolution to impale rod rosenstein
+ Expected: 1
+Failed in: apple becomes first american company that should have paid trillion dollars in taxes
+ Expected: 1
+Failed in: giuliani puts odds of trump-mueller interview at 50-65
+ Expected: 1
+Failed in: philadelphia goes way overboard on 9/11 security for liberty bell
+ Expected: 1
+Failed in: pope francis on vatican abuse scandal: 'just tell me whose feet to wash'
+ Expected: 1
+Failed in: title ix administrators discuss emotional demands of job
+ Expected: 0
+Failed in: football-loving americans harassed for wearing turbans to nfl game
+ Expected: 0
+Failed in: martin luther king jr. day celebrates 30th anniversary
+ Expected: 0
+Failed in: coast guard terror suspect released after cell needed for nonviolent drug user
+ Expected: 1
+Failed in: de blasio courts iowa voters by winning 'largest candidate' at polk county fair
+ Expected: 1
+Failed in: ohio state puts urban meyer on paid secret coaching leave
+ Expected: 1
+Failed in: mike pence condemns atheists, homosexuals, and feminists for role in forcing god to punish america on 9/11
+ Expected: 1
+Failed in: republicans blame election losses on democrats
+ Expected: 1
+Failed in: israel calls for increase in u.s. taxes to fund attacks on gaza
+ Expected: 1
+Failed in: 'new york times' rehires judith miller to cover escalating iran tensions
+ Expected: 1
+Failed in: trump boys smash father's cell phone to search for chinese spies
+ Expected: 1
+Failed in: petco employee stocks gerbils by the cash register for impulse purchases
+ Expected: 1
+Failed in: $30 million donation from chan-zuckerberg charity to help kids learn to read returned
+ Expected: 1
+Failed in: comey warns democrats that having leftist politics gets you on the fbi watchlist
+ Expected: 1
+Failed in: frigid chicago bean shrivels up from below-zero temperatures
+ Expected: 1
+Failed in: 4 out of 5 texas dentists advocate the death penalty
+ Expected: 1
+Failed in: alabama cracks down on abortions by outlawing all medical procedures
+ Expected: 1
+Failed in: 'new york times' announces appointment of anonymous source as editor-in-chief
+ Expected: 1
+Failed in: israel retroactively legalizes 4,000 settler homes
+ Expected: 0
+Failed in: trump invites supporter, bbc cameraman to finish altercation at white house
+ Expected: 1
+Failed in: rick scott orders hurricane michael to evacuate from florida
+ Expected: 1
+Failed in: lady gaga quashes rumors that she ever thought bradley cooper talented in any way
+ Expected: 1
+Failed in: meet the other baldwin brother, james!
+ Expected: 1
+Failed in: 'new york times' corrects story by admitting they burned venezuela aid convoy
+ Expected: 1
+Failed in: ice launches campaign to reunite immigrant children with arresting officer
+ Expected: 1
+Failed in: cory booker apologizes to wall street bankers for the mean things he's going to have to say about them
+ Expected: 1
+Failed in: hootie and the blowfish: breaking down racial barriers between black, white pussies
+ Expected: 1
+Failed in: elton john wows mother theresa funeral crowd with 'the bitch is back\"
+ Expected: 1
+Failed in: bob iger: at disney, we live every day in terror that you'll turn on superhero movies
+ Expected: 1
+Failed in: pat patriot denies being mascot #5 in prostitution sting police report
+ Expected: 1
+Failed in: sarah huckabee sanders denies doctoring footage showing jim acosta in clown makeup blowing up gotham hospital
+ Expected: 1
+Failed in: paul ryan: 'the comments donald trump will make over the next few months are regrettable'
+ Expected: 1
+Failed in: stan lee, creator of beloved marvel character stan lee, dead at 95
+ Expected: 1
+Failed in: taylor swift inspires 200 million fans to register to vote in tennessee
+ Expected: 1
+Failed in: spotify removes 'this is: white supremacy' playlist
+ Expected: 1
+Failed in: jared kushner assures reporters he never revealed state secrets without turning huge profit
+ Expected: 1
+Failed in: tucker carlson challenges alexandria ocasio-cortez to a date
+ Expected: 1
+Failed in: romantic prince harry surprises meghan markle with family's heirloom colony
+ Expected: 1
+Failed in: tesla announces major upgrade to original roadster
+ Expected: 0
+Failed in: catholic church brings in new perspective on solving abuse scandal with appointment of toddler bishop
+ Expected: 1
+Failed in: thandie newton recalls disgusting encounter with repulsive male director
+ Expected: 0
+Failed in: kitten valiantly attempts high five
+ Expected: 0
+Failed in: star wars news net joins hundreds of publications in condemning trump's attacks on the press
+ Expected: 1
+Failed in: bill gates finally getting into radiohead's kid a
+ Expected: 1
+Failed in: treasury department renames building to honor emancipated slaves
+ Expected: 0
+Failed in: man has extra spring in his step after getting news that classmate moved home and stopped pursuing her dream
+ Expected: 1
+Failed in: kellyanne conway decides to lie low until rule of law dies down
+ Expected: 1
+Failed in: amy klobuchar pledges to fight everyday americans
+ Expected: 1
+Failed in: congress agrees to $1.3 billion for protective border fencers
+ Expected: 1
+Failed in: mlb hoping to boost attendance at league meetings with 'star wars' night
+ Expected: 1
+Failed in: courageous heterosexual has never donated blood to red cross in solidarity with gay men
+ Expected: 1
+Failed in: tonight: house faces his greatest challenge yet
+ Expected: 1
+Failed in: republicans holding out hope new chief of staff can restore order to chaotic white house
+ Expected: 0
+Failed in: rahm emanuel breaks ground on new jason van dyke police academy
+ Expected: 1
+
+Accuracy: 0.990159441953164
+Failed in 79 cases of 8028 headlines
