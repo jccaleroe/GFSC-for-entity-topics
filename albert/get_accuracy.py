@@ -6,7 +6,7 @@ with open('sarcasm_headlines/test.tsv') as f:
         l.append(tmp)
 
 l2 = []
-with open('sarcasm_results/bert_multilingual/test_results.tsv') as f:
+with open('sarcasm_results/bert_base/test_results.tsv') as f:
     for i in f:
         tmp = i.split('\t')
         if float(tmp[0]) > float(tmp[1]):
