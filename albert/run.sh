@@ -5,4 +5,5 @@ python run_classifier_with_tfhub.py \
 --output_dir=sarcasm_output \
 --max_seq_length=128 \
 --do_train=true \
---do_eval=true
+--do_eval=true \
+--do_predict=true \
