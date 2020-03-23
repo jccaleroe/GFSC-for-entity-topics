@@ -1,4 +1,0 @@
-Accuracy: 0.0015748031496062992
-Failed in 634.0 cases of 635 headlines
-
-Only one ok: Fuiste eterno durante unas semanas.

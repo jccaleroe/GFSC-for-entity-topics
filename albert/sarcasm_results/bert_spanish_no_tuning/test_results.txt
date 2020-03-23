@@ -1,0 +1,179 @@
+Failed in: una dama como tú nunca me hará daño, porque yo juego al ajedrez
+ Expected: 1
+Failed in: no estoy llorando, solo me estoy desintoxicando del amor que sentía por ti
+ Expected: 1
+Failed in: ¿sabes por qué no apareces en el diccionario? porque no significas nada
+ Expected: 1
+Failed in: eres el mejor ejemplo de que los hombres no piensan con el cerebro
+ Expected: 1
+Failed in: debo confesar que nací a una edad muy temprana
+ Expected: 1
+Failed in: lo único que impide a dios mandar un segundo diluvio, es que el primero fue inútil
+ Expected: 1
+Failed in: el laxante más eficaz del mundo se llama "tenemos que hablar"
+ Expected: 1
+Failed in: el cerebro es un órgano maravilloso. comienza a trabajar nada más levantarnos y no deja de funcionar hasta entrar en la oficina
+ Expected: 1
+Failed in: la persona que te pida que seas tú mismo no te podía haber dado peor consejo
+ Expected: 1
+Failed in: ¿odias tu trabajo? ¿por qué no lo dijiste? hay un grupo de apoyo para eso. se llama todo el mundo y se ven en el bar
+ Expected: 1
+Failed in: soy muy humilde, de hecho te puedo asegurar que soy la persona más humilde del mundo
+ Expected: 1
+Failed in: la vida es la principal causa de muerte que existe en el mundo
+ Expected: 1
+Failed in: no importa que te equivoques, mañana tendrás una nueva oportunidad de volver a cometer exactamente el mismo error
+ Expected: 1
+Failed in: antes me sentía solo, ahora simplemente ya no estamos juntos
+ Expected: 1
+Failed in: claro que puedes caerle bien a mucha gente y hacer amigos, además es muy sencillo, tan solo tienes que cambiar tu forma de ser, tu personalidad, y si tienes tiempo también tu aspecto
+ Expected: 1
+Failed in: eres la prueba viviente de que un hombre puede vivir sin cerebro
+ Expected: 1
+Failed in: todo es risa, sexo y diversión hasta que te pregunta… ¿qué somos?
+ Expected: 1
+Failed in: busqué en google: "infidelidad" y adivina… me salió tu nombre
+ Expected: 1
+Failed in: criticar mis defectos no va a disminuir los tuyos
+ Expected: 1
+Failed in: mis lágrimas son 1% agua y 99% tus imbecilidades
+ Expected: 1
+Failed in: no, en serio, sígueme contando tu historia. de hecho, bostezar es mi manera favorita de demostrar cuánto me interesa escucharte
+ Expected: 1
+Failed in: fuiste la mejor parte de mi peor error
+ Expected: 1
+Failed in: resulta que tus opiniones no dan buenos resultados, mejor usa las mías
+ Expected: 1
+Failed in: es un éxito catastrófico
+ Expected: 1
+Failed in: no quiero alcanzar la inmortalidad a través de mi trabajo. la quiero conseguir sin morir
+ Expected: 1
+Failed in: lo único peor de que hablen de ti es que no hablen de ti
+ Expected: 1
+Failed in: la gente aprecia las cosas pequeñas que haces por ellas. y así es como evitas que te pidan hacer algo más
+ Expected: 1
+Failed in: me siento miserable sin ti, es casi como tenerte aquí
+ Expected: 1
+Failed in: si no quieres una respuesta sarcástica, no hagas una pregunta necia
+ Expected: 1
+Failed in: el problema con los niños es que no se pueden devolver
+ Expected: 1
+Failed in: a menudo parece un poco triste que noé y su familia no perdieran el barco
+ Expected: 1
+Failed in: tiene la oreja de van gogh para la música
+ Expected: 1
+Failed in: cuando la gente es libre de hacer lo que quiere, a menudo imitan a otros
+ Expected: 1
+Failed in: nunca olvido una cara, pero en tu caso haré una excepción
+ Expected: 1
+Failed in: no soy lo suficientemente joven para saberlo
+ Expected: 1
+Failed in: a mí dadme lo superfluo, que lo necesario todo el mundo puede tenerlo
+ Expected: 1
+Failed in: después de todo, ¿qué es la moda? desde el punto de vista artístico una forma de fealdad tan intolerable que nos vemos obligados a cambiarla cada seis meses
+ Expected: 1
+Failed in: el 100% de los americanas es 99% idiota
+ Expected: 1
+Failed in: ten cuidado con leer libros de salud. podrías morir de un error
+ Expected: 1
+Failed in: haz algo productivo en tu vida. deja de ser tú mismo
+ Expected: 1
+Failed in: no ha tenido ningún enemigo en toda la vida, pero sus amigos le odian intensamente
+ Expected: 1
+Failed in: la experiencia es algo maravilloso para la vida. te permite reconocer un error cuando lo vuelves a cometer
+ Expected: 1
+Failed in: a veces necesito lo que solo tú me puedes dar: tu ausencia
+ Expected: 1
+Failed in: estoy 99 por ciento seguro de que no les agrado, pero estoy 100 por ciento seguro que eso no me importa
+ Expected: 1
+Failed in: con las leyes ocurre lo mismo que con las salchichas, es mejor no ver cómo las hacen
+ Expected: 1
+Failed in: soy un maestro haciéndoles creer que la opinión de los demás me importa
+ Expected: 1
+Failed in: los zombies comen cerebros. tú estás a salvo
+ Expected: 1
+Failed in: la ironía se pierde en lo estúpido
+ Expected: 1
+Failed in: estoy sonriendo, eso debería asustarte
+ Expected: 1
+Failed in: eres tan tonto que tu coeficiente intelectual y la talla de tu zapato tienen la misma medida
+ Expected: 1
+Failed in: no es que tenga miedo a morir. simplemente que no quiero estar en ese lugar cuando suceda
+ Expected: 1
+Failed in: querido alcohol: teníamos un trato tú me convertías en alguien más gracioso, más hermoso, más inteligente y un mejor bailarín. pero ayer ví la grabación así que tenemos que hablar
+ Expected: 1
+Failed in: de todas las cosas que la vida me ha dado, me encantaría devolver 10 kilos
+ Expected: 1
+Failed in: el futuro es muy similar al presente, solamente que más largo
+ Expected: 1
+Failed in: está prohibido asesinar, por lo tanto, todos los asesinos son castigados a menos que asesinen en grandes masas y al sonido de las trompetas
+ Expected: 1
+Failed in: nunca ha existido un bebé tan tierno que la madre no desee poner a dormir
+ Expected: 1
+Failed in: la luz viaja más rápido que el sonido. esa es la razón por la cual algunas personas aparentan brillar hasta que hablan
+ Expected: 1
+Failed in: por fuera del perro, un libro es quizás el mejor amigo del hombre; y dentro del perro tal vez sea demasiado oscuro para leer
+ Expected: 1
+Failed in: después de mentir, es necesario tener buena memoria
+ Expected: 1
+Failed in: prefiero ser en parte sobresaliente que completamente inútil
+ Expected: 1
+Failed in: tomarse el amor en serio contigo es como creer que los unicornios existen, todo es un cuento
+ Expected: 1
+Failed in: si dices que tienes la conciencia limpia es porque seguramente la memoria no te sirve de mucho, con solo darte a conocer ya estás haciendo algo malo
+ Expected: 1
+Failed in: un día nos cruzaremos y yo diré de la que me salvé y tú dirás lo que he perdido
+ Expected: 1
+Failed in: ser mujer puede tornarse complicado si solo hay hombres a tu alrededor, es como ser un pedazo de carne en medio de una jaula de tigres hambrientos
+ Expected: 1
+Failed in: cuando un hombre te pide un poco de espacio dile que el universo entero está a su disposición. que se aleje lo más posible, si es posible a otra galaxia
+ Expected: 1
+Failed in: dicen que ser hombre tiene cosas positivas, pero por más que los observo no encuentro ninguna
+ Expected: 1
+Failed in: los hombres buenos son como los unicornios, todo el mundo habla de ellos, pero nadie nunca los ha visto
+ Expected: 1
+Failed in: no es miedo a estar sola contigo, pero tengo que reconocer que no me gustaría estarlo ni si quiera un solo minuto
+ Expected: 1
+Failed in: si sigues así, un día escribirás a mi corazón y te dejará en visto
+ Expected: 1
+Failed in: si me dices que te enamoraste de mí y que quieres estar conmigo toda la vida yo me pondría triste en vez de estar feliz, nadie puede aguantarte veinte minutos seguidos, no entiendo cómo alguien podría aguantarte una vida entera
+ Expected: 1
+Failed in: siempre me habían dicho que el amor era lo mejor que te podía ocurrir en la vida claramente siempre me han tenido engañado
+ Expected: 1
+Failed in: es de mala educación decir te amo con la boca llena de mentiras
+ Expected: 1
+Failed in: no te puedes imaginar lo mucho que me atraes hacia el precipicio
+ Expected: 1
+Failed in: la principal causa de muertes en el mundo es la vida. si no quieres morir ¿para qué vives?
+ Expected: 1
+Failed in: estoy jugando a echarte de menos y seguir siendo feliz, un juego en el que nunca podré llegar a ganar
+ Expected: 1
+Failed in: soy de aquellas personas que cuando preguntas y te respondo no me pasa nada, es que en realidad odio escucharte
+ Expected: 1
+Failed in: podría decirte que eres de las personas más inteligentes, pero cualquier estúpido se daría cuenta que no es así
+ Expected: 1
+Failed in: lo que más me gustaba de ti era creer que esos para siempre no eran de esos que duran hasta que me apetezca
+ Expected: 1
+Failed in: me encanta el trabajo duro, el que te hace madrugar y cobrar poco, lo que no me gusta es que me ocurra a mí
+ Expected: 1
+Failed in: no puedo decir que no estoy en desacuerdo contigo
+ Expected: 1
+Failed in: soledad es que te pregunten si roncas y no lo sepas
+ Expected: 1
+Failed in: me gustas cuando callas porque estás como ausente
+ Expected: 1
+Failed in: pedí a un genio ser invisible y me hizo gordo, feo y pobre
+ Expected: 1
+Failed in: normalmente, para cuando se tiene razón ya es demasiado tarde
+ Expected: 1
+Failed in: disculpen si les llamo caballeros, pero todavía no les conozco bien
+ Expected: 1
+Failed in: prohíben el código genético por lenguaje sexista
+ Expected: 1
+Failed in: es más divertido hacerse pirata que unirse a la marina
+ Expected: 1
+Failed in: cualquier cosa que hagas en la vida, rodéate de personas inteligentes que puedan a discutir contigo
+ Expected: 0
+
+Accuracy: 0.5111111111111111
+Failed in 88.0 cases of 180 headlines
