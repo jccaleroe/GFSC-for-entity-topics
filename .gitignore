@@ -2,5 +2,9 @@
 **/.ipynb_checkpoints
 **/venv
 **/__pycache__
-htd/hlta/HLTA-deps.jar
-
+**/profiles*/
+**/abstracts*/
+**/GoogleNews-vectors-negative300.bin
+**/topic_models/
+*.swp
+**/HLTA-deps.jar
