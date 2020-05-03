@@ -8,3 +8,4 @@
 **/topic_models/
 *.swp
 **/HLTA-deps.jar
+fusion/matrices
