@@ -9,3 +9,4 @@
 *.swp
 **/HLTA-deps.jar
 fusion/matrices
+fusion/GFSC
