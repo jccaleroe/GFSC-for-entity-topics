@@ -9,5 +9,7 @@
 *.swp
 **/HLTA-deps.jar
 fusion/heavy_matrices
+fusion/single_matrix
 fusion/GFSC
 fusion/gbs
+*.npy
