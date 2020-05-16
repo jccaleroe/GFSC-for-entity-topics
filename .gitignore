@@ -8,5 +8,6 @@
 **/topic_models/
 *.swp
 **/HLTA-deps.jar
-fusion/matrices
+fusion/heavy_matrices
 fusion/GFSC
+fusion/gbs
