@@ -9,13 +9,14 @@ print(len(d['data']))
 views = []
 
 for i in d['data']:
-    x = np.array(i[0])
-    m = x.min()
-    x -= m
-    x /= (x.max() - m)
-    x *= 2
-    x -= 1
-    views.append(x)
+    matrix = np.array(i[0])
+    m_min = matrix.min()
+    m_max = matrix.max()
+    matrix -= m_min
+    matrix /= (m_max - m_min)
+    matrix *= 2
+    matrix -= 1
+    views.append(matrix)
 
 labels = np.array(d['labels'])
 
