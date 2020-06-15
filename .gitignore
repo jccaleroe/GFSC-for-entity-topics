@@ -13,3 +13,4 @@ fusion/single_matrix
 fusion/GFSC
 fusion/gbs
 *.npy
+*.html
