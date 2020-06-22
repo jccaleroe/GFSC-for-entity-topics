@@ -1,0 +1,4327 @@
+{
+  "nodes": {
+    "propnZ29": {
+      "id": "propnZ29",
+      "name": "ministro ernesto-samper andres-pastrana samper pastrana guillermo marta",
+      "group": 15,
+      "isRoot": false,
+      "children": [
+        "U1",
+        "U17",
+        "U18"
+      ],
+      "expanded": false
+    },
+    "propnZ23": {
+      "id": "propnZ23",
+      "name": "gobernacion partido concejo cambio-radical ciudadana gobernador alcaldia",
+      "group": 1,
+      "isRoot": true,
+      "children": [
+        "U2",
+        "U19",
+        "U20",
+        "U22"
+      ],
+      "expanded": false
+    },
+    "propnZ216": {
+      "id": "propnZ216",
+      "name": "rodrigo cali juan-carlos defensa valle naranjo consejero",
+      "group": 38,
+      "isRoot": true,
+      "children": [
+        "propnZ197",
+        "U3",
+        "U22",
+        "U24",
+        "U25",
+        "U26",
+        "U27",
+        "U28",
+        "U29",
+        "U30",
+        "U31",
+        "U32",
+        "U33",
+        "U34"
+      ],
+      "expanded": false
+    },
+    "propnZ22": {
+      "id": "propnZ22",
+      "name": "enrique-penalosa antanas-mockus alcaldia-bogota alianza constituyente navarro verde",
+      "group": 43,
+      "isRoot": true,
+      "children": [
+        "U4",
+        "U35",
+        "U36",
+        "U37"
+      ],
+      "expanded": false
+    },
+    "propnZ210": {
+      "id": "propnZ210",
+      "name": "relaciones internacionales estudios washington centro venezuela unidos",
+      "group": 18,
+      "isRoot": true,
+      "children": [
+        "propnZ148",
+        "U38",
+        "U39"
+      ],
+      "expanded": false
+    },
+    "propnZ213": {
+      "id": "propnZ213",
+      "name": "banco desarrollo plan planeacion banco-republica fondo economia",
+      "group": 7,
+      "isRoot": true,
+      "children": [
+        "U5"
+      ],
+      "expanded": false
+    },
+    "propnZ25": {
+      "id": "propnZ25",
+      "name": "corte-suprema justicia corte corte-constitucional sala fiscal fiscalia",
+      "group": 26,
+      "isRoot": true,
+      "children": [
+        "U6",
+        "U24",
+        "U40",
+        "U41",
+        "U42"
+      ],
+      "expanded": false
+    },
+    "propnZ28": {
+      "id": "propnZ28",
+      "name": "cucuta norte-santander ramiro suarez corzo villamizar cristo",
+      "group": 34,
+      "isRoot": false,
+      "children": [
+        "U8"
+      ],
+      "expanded": false
+    },
+    "propnZ212": {
+      "id": "propnZ212",
+      "name": "farc paz habana patriotica union castro ley",
+      "group": 66,
+      "isRoot": true,
+      "children": [
+        "propnZ155",
+        "U22",
+        "U32",
+        "U43",
+        "U44",
+        "U45",
+        "U46",
+        "U47",
+        "U48"
+      ],
+      "expanded": false
+    },
+    "propnZ215": {
+      "id": "propnZ215",
+      "name": "rafael-pardo partido-liberal horacio-serpa liberal luis-carlos pardo serpa",
+      "group": 37,
+      "isRoot": true,
+      "children": [
+        "U9",
+        "U25",
+        "U37",
+        "U49",
+        "U50",
+        "U51",
+        "U52"
+      ],
+      "expanded": false
+    },
+    "propnZ21": {
+      "id": "propnZ21",
+      "name": "lopez alfonso miguel claudia turbay robledo julio-cesar",
+      "group": 9,
+      "isRoot": true,
+      "children": [
+        "U10",
+        "U20",
+        "U24",
+        "U36",
+        "U44",
+        "U53",
+        "U54",
+        "U55",
+        "U56",
+        "U57"
+      ],
+      "expanded": false
+    },
+    "propnZ24": {
+      "id": "propnZ24",
+      "name": "medellin antioquia valencia-cossio fabio gabriel ramos arias",
+      "group": 33,
+      "isRoot": true,
+      "children": [
+        "U11",
+        "U25",
+        "U32",
+        "U40",
+        "U58"
+      ],
+      "expanded": false
+    },
+    "propnZ27": {
+      "id": "propnZ27",
+      "name": "polo-democratico gustavo-petro polo petro samuel moreno distrital",
+      "group": 17,
+      "isRoot": false,
+      "children": [
+        "U13",
+        "U20",
+        "U59"
+      ],
+      "expanded": false
+    },
+    "propnZ211": {
+      "id": "propnZ211",
+      "name": "ordonez procuraduria alejandro procurador general maya",
+      "group": 57,
+      "isRoot": true,
+      "children": [
+        "propnZ152",
+        "U59"
+      ],
+      "expanded": false
+    },
+    "propnZ26": {
+      "id": "propnZ26",
+      "name": "camilo restrepo agricultura reyes eder unidad dario",
+      "group": 4,
+      "isRoot": true,
+      "children": [
+        "U14",
+        "U60"
+      ],
+      "expanded": false
+    },
+    "propnZ214": {
+      "id": "propnZ214",
+      "name": "zuluaga oscar-ivan caldas manizales hernan barco giraldo",
+      "group": 42,
+      "isRoot": false,
+      "children": [
+        "propnZ175",
+        "U16",
+        "U25",
+        "U36",
+        "U61"
+      ],
+      "expanded": false
+    },
+    "propnZ144": {
+      "id": "propnZ144",
+      "name": "ministro guillermo sanin programa social",
+      "group": 58,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ147": {
+      "id": "propnZ147",
+      "name": "lucia marta ramirez",
+      "group": 65,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ146": {
+      "id": "propnZ146",
+      "name": "andres-pastrana pastrana",
+      "group": 15,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ145": {
+      "id": "propnZ145",
+      "name": "samper ernesto-samper",
+      "group": 15,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ123": {
+      "id": "propnZ123",
+      "name": "santander bucaramanga",
+      "group": 27,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ120": {
+      "id": "propnZ120",
+      "name": "gobernacion cambio-radical gobernador",
+      "group": 1,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ119": {
+      "id": "propnZ119",
+      "name": "partido concejo alcaldia camara-representantes diaz partido-conservador comision",
+      "group": 1,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ122": {
+      "id": "propnZ122",
+      "name": "hugo aguilar",
+      "group": 16,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ121": {
+      "id": "propnZ121",
+      "name": "ciudadana opcion convergencia gil",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ191": {
+      "id": "propnZ191",
+      "name": "eps salud",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ194": {
+      "id": "propnZ194",
+      "name": "nueva democratica fuerza",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ197": {
+      "id": "propnZ197",
+      "name": "electoral consejo",
+      "group": 35,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ196": {
+      "id": "propnZ196",
+      "name": "espectador henao norte rojas jimenez cano cambio",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ192": {
+      "id": "propnZ192",
+      "name": "lleras german-vargas",
+      "group": 11,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ187": {
+      "id": "propnZ187",
+      "name": "defensa seguridad comandante fuerzas-militares ejercito escuela",
+      "group": 2,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ190": {
+      "id": "propnZ190",
+      "name": "consejero alto presidencial",
+      "group": 56,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ195": {
+      "id": "propnZ195",
+      "name": "sergio fajardo arboleda palacios",
+      "group": 60,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ193": {
+      "id": "propnZ193",
+      "name": "casa narino tiempo semana",
+      "group": 39,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ185": {
+      "id": "propnZ185",
+      "name": "juan-carlos londono mejia soto esguerra trujillo francisco",
+      "group": 22,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ186": {
+      "id": "propnZ186",
+      "name": "risaralda pereira arango",
+      "group": 24,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ184": {
+      "id": "propnZ184",
+      "name": "cali valle valle-cauca abadia popular movimiento",
+      "group": 38,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ189": {
+      "id": "propnZ189",
+      "name": "pablo escobar",
+      "group": 6,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ188": {
+      "id": "propnZ188",
+      "name": "naranjo oscar policia",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ183": {
+      "id": "propnZ183",
+      "name": "rodrigo rivera ospina guerrero ivan",
+      "group": 55,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ116": {
+      "id": "propnZ116",
+      "name": "alianza verde",
+      "group": 12,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ114": {
+      "id": "propnZ114",
+      "name": "enrique-penalosa alcaldia-bogota penalosa",
+      "group": 43,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ117": {
+      "id": "propnZ117",
+      "name": "navarro antonio",
+      "group": 31,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ118": {
+      "id": "propnZ118",
+      "name": "asamblea constituyente",
+      "group": 49,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ115": {
+      "id": "propnZ115",
+      "name": "antanas-mockus mockus partido-verde florez",
+      "group": 43,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ148": {
+      "id": "propnZ148",
+      "name": "internacionales relaciones",
+      "group": 18,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ151": {
+      "id": "propnZ151",
+      "name": "chavez venezuela",
+      "group": 20,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ149": {
+      "id": "propnZ149",
+      "name": "estudios centro paris",
+      "group": 53,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ150": {
+      "id": "propnZ150",
+      "name": "washington unidos urrutia mira",
+      "group": 20,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ167": {
+      "id": "propnZ167",
+      "name": "desarrollo plan fondo internacional mundial america",
+      "group": 7,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ166": {
+      "id": "propnZ166",
+      "name": "banco-republica banco",
+      "group": 7,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ168": {
+      "id": "propnZ168",
+      "name": "planeacion universidad-andes economia hacienda departamento",
+      "group": 7,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ133": {
+      "id": "propnZ133",
+      "name": "gomez palacio hurtado uribe-velez centro-democratico constitucion diego",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ131": {
+      "id": "propnZ131",
+      "name": "corte-constitucional corte",
+      "group": 26,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ132": {
+      "id": "propnZ132",
+      "name": "externado andes gerencia bernal universidad-rosario villegas arauca",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ129": {
+      "id": "propnZ129",
+      "name": "corte-suprema justicia sala penal",
+      "group": 26,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ134": {
+      "id": "propnZ134",
+      "name": "humberto calle martinez",
+      "group": 54,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ130": {
+      "id": "propnZ130",
+      "name": "fiscalia fiscal morales",
+      "group": 29,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ141": {
+      "id": "propnZ141",
+      "name": "ramiro suarez william mora",
+      "group": 34,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ142": {
+      "id": "propnZ142",
+      "name": "cucuta norte-santander corzo villamizar",
+      "group": 34,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ143": {
+      "id": "propnZ143",
+      "name": "fernando cristo interior",
+      "group": 34,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ159": {
+      "id": "propnZ159",
+      "name": "minas ecopetrol rodado educacion santa rosa junta",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ158": {
+      "id": "propnZ158",
+      "name": "jaime castro araujo noguera hernando cultura cesar",
+      "group": 62,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ156": {
+      "id": "propnZ156",
+      "name": "patriotica union",
+      "group": 24,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ155": {
+      "id": "propnZ155",
+      "name": "habana farc",
+      "group": 66,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ164": {
+      "id": "propnZ164",
+      "name": "santa-marta magdalena cotes vives caicedo rafael",
+      "group": 40,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ161": {
+      "id": "propnZ161",
+      "name": "bolivar sucre bloque caribe cartagena cordoba romero",
+      "group": 25,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ165": {
+      "id": "propnZ165",
+      "name": "luna david",
+      "group": 40,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ157": {
+      "id": "propnZ157",
+      "name": "cardenas mauricio",
+      "group": 0,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ163": {
+      "id": "propnZ163",
+      "name": "roberto gerlein",
+      "group": 32,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ154": {
+      "id": "propnZ154",
+      "name": "paz ley fundacion vasquez director guerra rendon",
+      "group": 68,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ162": {
+      "id": "propnZ162",
+      "name": "char barranquilla atlantico",
+      "group": 32,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ160": {
+      "id": "propnZ160",
+      "name": "garcia secretaria rodriguez daniel ortiz torres toro",
+      "group": 24,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ179": {
+      "id": "propnZ179",
+      "name": "luis-carlos galan sarmiento grupo",
+      "group": 13,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ177": {
+      "id": "propnZ177",
+      "name": "partido-liberal liberal",
+      "group": 49,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ181": {
+      "id": "propnZ181",
+      "name": "alberto mario universidad-nacional",
+      "group": 23,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ178": {
+      "id": "propnZ178",
+      "name": "rafael-pardo pardo cesar-gaviria gaviria",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ182": {
+      "id": "propnZ182",
+      "name": "vega pretelt plazas vargas vargas-lleras secretario-general",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ176": {
+      "id": "propnZ176",
+      "name": "serpa horacio-serpa",
+      "group": 37,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ180": {
+      "id": "propnZ180",
+      "name": "eduardo garzon montealegre clara",
+      "group": 64,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ12": {
+      "id": "propnZ12",
+      "name": "robledo enrique trabajo nueva-york",
+      "group": 16,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ11": {
+      "id": "propnZ11",
+      "name": "lopez alfonso claudia",
+      "group": 9,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ13": {
+      "id": "propnZ13",
+      "name": "miguel angel nule",
+      "group": 50,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ112": {
+      "id": "propnZ112",
+      "name": "turbay julio-cesar quintero",
+      "group": 31,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ110": {
+      "id": "propnZ110",
+      "name": "instituto colombiano",
+      "group": 10,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ113": {
+      "id": "propnZ113",
+      "name": "medio ambiente",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ111": {
+      "id": "propnZ111",
+      "name": "publica administracion",
+      "group": 28,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ15": {
+      "id": "propnZ15",
+      "name": "autonoma corporacion gonzalez cundinamarca san contraloria consejo-superior",
+      "group": 31,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ14": {
+      "id": "propnZ14",
+      "name": "derecho administrativo publico transporte tumaco correa",
+      "group": 40,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ16": {
+      "id": "propnZ16",
+      "name": "superior tribunal",
+      "group": 31,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ19": {
+      "id": "propnZ19",
+      "name": "pacifico buenaventura choco murillo sanchez huila tolima",
+      "group": 61,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ17": {
+      "id": "propnZ17",
+      "name": "caracol radio julio",
+      "group": 31,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ18": {
+      "id": "propnZ18",
+      "name": "colombiana asociacion federacion comercio comite superintendencia organizacion",
+      "group": 48,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ124": {
+      "id": "propnZ124",
+      "name": "ramos alfredo",
+      "group": 24,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ125": {
+      "id": "propnZ125",
+      "name": "medellin antioquia velez",
+      "group": 33,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ126": {
+      "id": "propnZ126",
+      "name": "valencia-cossio fabio valencia leon cauca",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ128": {
+      "id": "propnZ128",
+      "name": "gabriel prieto perez salazar silva gutierrez",
+      "group": 41,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ127": {
+      "id": "propnZ127",
+      "name": "arias andres felipe",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ138": {
+      "id": "propnZ138",
+      "name": "gustavo-petro petro",
+      "group": 17,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ140": {
+      "id": "propnZ140",
+      "name": "distrital distrito olano german",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ139": {
+      "id": "propnZ139",
+      "name": "moreno samuel",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ137": {
+      "id": "propnZ137",
+      "name": "polo-democratico polo",
+      "group": 16,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ152": {
+      "id": "propnZ152",
+      "name": "alejandro ordonez",
+      "group": 57,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ153": {
+      "id": "propnZ153",
+      "name": "procuraduria procurador general maya",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ135": {
+      "id": "propnZ135",
+      "name": "agricultura reyes eder unidad dario",
+      "group": 4,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ136": {
+      "id": "propnZ136",
+      "name": "restrepo camilo",
+      "group": 63,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ171": {
+      "id": "propnZ171",
+      "name": "oscar-ivan zuluaga",
+      "group": 42,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ170": {
+      "id": "propnZ170",
+      "name": "virgilio barco",
+      "group": 8,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ174": {
+      "id": "propnZ174",
+      "name": "duque ivan-duque",
+      "group": 31,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ173": {
+      "id": "propnZ173",
+      "name": "giraldo luis-guillermo jaramillo",
+      "group": 8,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ175": {
+      "id": "propnZ175",
+      "name": "presidencia presidente",
+      "group": 44,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ169": {
+      "id": "propnZ169",
+      "name": "caldas manizales yepes victor",
+      "group": 8,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "propnZ172": {
+      "id": "propnZ172",
+      "name": "hernan andrade hoyos lizcano echeverri",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ23": {
+      "id": "verbZ23",
+      "name": "acusar enfrentar decidir afirmar negar condenar pagar",
+      "group": 51,
+      "isRoot": true,
+      "children": [
+        "verbZ122",
+        "U32",
+        "U40",
+        "U51",
+        "U59",
+        "U62"
+      ],
+      "expanded": false
+    },
+    "verbZ22": {
+      "id": "verbZ22",
+      "name": "senalar establecer nombrar-llegar suspender amenazar secuestrar desaparecer",
+      "group": 30,
+      "isRoot": false,
+      "children": [
+        "U22",
+        "U24",
+        "U36",
+        "U53"
+      ],
+      "expanded": false
+    },
+    "verbZ21": {
+      "id": "verbZ21",
+      "name": "buscar surgir ocurrir nacer recoger lanzarse acompanar",
+      "group": 16,
+      "isRoot": false,
+      "children": [
+        "verbZ113",
+        "verbZ13",
+        "U22",
+        "U24",
+        "U32",
+        "U36",
+        "U40",
+        "U51",
+        "U59",
+        "U61"
+      ],
+      "expanded": false
+    },
+    "verbZ125": {
+      "id": "verbZ125",
+      "name": "pedir cambiar aprovechar poner reelegir mantener hablar",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ126": {
+      "id": "verbZ126",
+      "name": "seguir recibir crear ofrecer reunir avanzar sufrir",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ124": {
+      "id": "verbZ124",
+      "name": "presentar votar firmar hundir",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ122": {
+      "id": "verbZ122",
+      "name": "acusar afirmar negar pagar declarar investigar obtener",
+      "group": 51,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ133": {
+      "id": "verbZ133",
+      "name": "intentar quemar impulsar enviar montar conocer vincular",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ123": {
+      "id": "verbZ123",
+      "name": "decidir aceptar perder aspirar retirar consolidar",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ134": {
+      "id": "verbZ134",
+      "name": "armar distanciar favorecer anular entro sancionar nacer-tener",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ121": {
+      "id": "verbZ121",
+      "name": "denunciar sacar anunciar entregar adherir valer derrotar",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ130": {
+      "id": "verbZ130",
+      "name": "cumplir destituir ordenar otorgar trasladar delinquir mejorar",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ127": {
+      "id": "verbZ127",
+      "name": "llamar saber comprar entrar vivir construir costar",
+      "group": 24,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ128": {
+      "id": "verbZ128",
+      "name": "repetir ayudar pelear alejar heredar apoyar-apoyar marcar",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ132": {
+      "id": "verbZ132",
+      "name": "condenar capturar destituir-inhabilitar",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ131": {
+      "id": "verbZ131",
+      "name": "encontrar asegurar contar sumar tener-lograr alcanzar elegir-nombrar",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ135": {
+      "id": "verbZ135",
+      "name": "manejar devolver regresar-trabajar escribir existir especializar tocar",
+      "group": 19,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ129": {
+      "id": "verbZ129",
+      "name": "enfrentar logro criticar continuar revivir demostrar oficializar",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ118": {
+      "id": "verbZ118",
+      "name": "suspender amenazar crecer imputar volver sentir abandonar",
+      "group": 50,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ120": {
+      "id": "verbZ120",
+      "name": "graduar-tener pasar-trabajar agrupar",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ119": {
+      "id": "verbZ119",
+      "name": "secuestrar liberar asesinar ganar-tener recuperar",
+      "group": 31,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ117": {
+      "id": "verbZ117",
+      "name": "senalar mencionar argumentar contratar mandar mostrar citar",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ116": {
+      "id": "verbZ116",
+      "name": "establecer nombrar-llegar desaparecer conformar imponer asistir ratificar",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ14": {
+      "id": "verbZ14",
+      "name": "conseguir recordar reconocer manifestar intervenir tumbar esperar",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ110": {
+      "id": "verbZ110",
+      "name": "estudiar-trabajar conocido aliar querer apostar exigir llegar-nombrar",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ16": {
+      "id": "verbZ16",
+      "name": "regresar participar ocupar fracasar inhabilitar encabezar",
+      "group": 24,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ11": {
+      "id": "verbZ11",
+      "name": "surgir ocurrir lanzarse preferir nombrar-renunciar organizar convencer",
+      "group": 8,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ113": {
+      "id": "verbZ113",
+      "name": "nacer nacio estudiar realizar",
+      "group": 59,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ114": {
+      "id": "verbZ114",
+      "name": "competir quedo recorrer presidir fundar convirtiendose viajar",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ19": {
+      "id": "verbZ19",
+      "name": "recoger inscribir renunciar-lanzarse usar tener-hacer reportar",
+      "group": 31,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ115": {
+      "id": "verbZ115",
+      "name": "permanecer ocupar-tener cuestionar culminar concretar gustar estudiar-tener",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ18": {
+      "id": "verbZ18",
+      "name": "fortalecer aumentar caracterizar reducir bajar ocupo tratar",
+      "group": 31,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ17": {
+      "id": "verbZ17",
+      "name": "demandar quitar nombrar-tener implicar reforzar tener-tener suceder",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ13": {
+      "id": "verbZ13",
+      "name": "formar buscar",
+      "group": 21,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ12": {
+      "id": "verbZ12",
+      "name": "acompanar servir resultar modificar abrir",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ112": {
+      "id": "verbZ112",
+      "name": "tener-participar nacer-graduar confirmar expulsar afro disenar trabajar-llegar",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ15": {
+      "id": "verbZ15",
+      "name": "reemplazar encargar romper designar llegar-tener posesionar discutir",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "verbZ111": {
+      "id": "verbZ111",
+      "name": "empezar nombrar-ocupar empezo graduar ver venir acabar",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ23": {
+      "id": "orgZ23",
+      "name": "general fiscalia penal fiscal paz nacion seguridad",
+      "group": 29,
+      "isRoot": true,
+      "children": [
+        "orgZ128",
+        "U5",
+        "U24",
+        "U25",
+        "U27",
+        "U35",
+        "U39",
+        "U42",
+        "U48",
+        "U51",
+        "U57"
+      ],
+      "expanded": false
+    },
+    "orgZ22": {
+      "id": "orgZ22",
+      "name": "asamblea senado-partido liberal partido-liberal departamental congreso-partido camara-representantes",
+      "group": 49,
+      "isRoot": true,
+      "children": [
+        "U25",
+        "U32",
+        "U37",
+        "U40",
+        "U44",
+        "U51"
+      ],
+      "expanded": false
+    },
+    "orgZ25": {
+      "id": "orgZ25",
+      "name": "cartel viceministro polo universidad-nacional agencia-nacional gobierno-santos camara-partido",
+      "group": 5,
+      "isRoot": true,
+      "children": [
+        "U54",
+        "U59"
+      ],
+      "expanded": false
+    },
+    "orgZ21": {
+      "id": "orgZ21",
+      "name": "centro union democratico publicos naciones-unidas servicios nueva",
+      "group": 46,
+      "isRoot": true,
+      "children": [
+        "orgZ112",
+        "orgZ114",
+        "U22",
+        "U24",
+        "U25",
+        "U28",
+        "U32",
+        "U36",
+        "U39",
+        "U51",
+        "U55",
+        "U59"
+      ],
+      "expanded": false
+    },
+    "orgZ24": {
+      "id": "orgZ24",
+      "name": "polo-democratico alternativo democratica frente politico alternativa comunista",
+      "group": 16,
+      "isRoot": false,
+      "children": [
+        "orgZ148",
+        "U2",
+        "U20",
+        "U22",
+        "U35",
+        "U40",
+        "U43",
+        "U44",
+        "U59"
+      ],
+      "expanded": false
+    },
+    "orgZ26": {
+      "id": "orgZ26",
+      "name": "ciencias german politicas gutierrez congreso-santos derecho-penal empresarial",
+      "group": 8,
+      "isRoot": true,
+      "children": [
+        "U20",
+        "U25",
+        "U32",
+        "U36",
+        "U47",
+        "U61"
+      ],
+      "expanded": false
+    },
+    "orgZ128": {
+      "id": "orgZ128",
+      "name": "santos-santos santos",
+      "group": 69,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ134": {
+      "id": "orgZ134",
+      "name": "penal sala",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ129": {
+      "id": "orgZ129",
+      "name": "banco-interamericano desarrollo bid santos-congreso constitucion",
+      "group": 7,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ133": {
+      "id": "orgZ133",
+      "name": "senado-camara representantes",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ130": {
+      "id": "orgZ130",
+      "name": "departamento-nacional planeacion",
+      "group": 7,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ126": {
+      "id": "orgZ126",
+      "name": "militar fuerzas-militares comando",
+      "group": 2,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ131": {
+      "id": "orgZ131",
+      "name": "federacion-nacional cafeteros",
+      "group": 48,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ137": {
+      "id": "orgZ137",
+      "name": "organizacion oea",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ123": {
+      "id": "orgZ123",
+      "name": "general fiscal nacion",
+      "group": 29,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ135": {
+      "id": "orgZ135",
+      "name": "politicos estudios",
+      "group": 53,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ136": {
+      "id": "orgZ136",
+      "name": "prosperidad departamento social agencia juridica unidos",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ124": {
+      "id": "orgZ124",
+      "name": "fiscalia fiscalia-fiscalia das",
+      "group": 29,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ125": {
+      "id": "orgZ125",
+      "name": "seguridad justicia defensa ministro ministro-defensa policia policia-nacional",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ132": {
+      "id": "orgZ132",
+      "name": "bogota empresa presidencia secretario ministerio-defensa congreso-senado relaciones-internacionales",
+      "group": 12,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ127": {
+      "id": "orgZ127",
+      "name": "paz alto-comisionado ley",
+      "group": 68,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ121": {
+      "id": "orgZ121",
+      "name": "consejo directivo consejo-consejo universidad-libre derecho-administrativo",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ119": {
+      "id": "orgZ119",
+      "name": "judicatura consejo-superior",
+      "group": 24,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ117": {
+      "id": "orgZ117",
+      "name": "asamblea departamental",
+      "group": 49,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ118": {
+      "id": "orgZ118",
+      "name": "universidad-externado colombia derecho publico colombia-universidad contralor",
+      "group": 40,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ122": {
+      "id": "orgZ122",
+      "name": "asesor universidad-rosario iglesia bolivar universidad-catolica",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ120": {
+      "id": "orgZ120",
+      "name": "corte corte-constitucional corte-corte",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ116": {
+      "id": "orgZ116",
+      "name": "senado-partido liberal partido-liberal congreso-partido camara-representantes senado-senado congreso",
+      "group": 49,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ153": {
+      "id": "orgZ153",
+      "name": "cartel viceministro polo universidad-nacional agencia-nacional gobierno-santos camara-partido",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ154": {
+      "id": "orgZ154",
+      "name": "instituto colombiano financiero",
+      "group": 10,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ111": {
+      "id": "orgZ111",
+      "name": "naciones-unidas pontificia universidad-javeriana programa onu historia oficina",
+      "group": 53,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ112": {
+      "id": "orgZ112",
+      "name": "democratico centro",
+      "group": 46,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ12": {
+      "id": "orgZ12",
+      "name": "industria comercio superintendencia competitividad privado antioquia medellin",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ15": {
+      "id": "orgZ15",
+      "name": "school london valores banco central pacifico",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ19": {
+      "id": "orgZ19",
+      "name": "empresas administracion cali alcaldia-cali universidad-valle",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ11": {
+      "id": "orgZ11",
+      "name": "superintendente ministerio asociacion-nacional colombiana red departamento-administrativo fundacion",
+      "group": 24,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ16": {
+      "id": "orgZ16",
+      "name": "union europea club",
+      "group": 24,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ13": {
+      "id": "orgZ13",
+      "name": "saludcoop turismo eps asociacion economico",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ113": {
+      "id": "orgZ113",
+      "name": "television comision-nacional caracol espectador radio tiempo cambio",
+      "group": 31,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ115": {
+      "id": "orgZ115",
+      "name": "presidencial alto-consejero",
+      "group": 56,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ18": {
+      "id": "orgZ18",
+      "name": "gestion publica gerencia publica-universidad negocios",
+      "group": 28,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ114": {
+      "id": "orgZ114",
+      "name": "publicos servicios asuntos",
+      "group": 46,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ17": {
+      "id": "orgZ17",
+      "name": "industrial santander uis aguilar convergencia-ciudadana",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ14": {
+      "id": "orgZ14",
+      "name": "derechos-humanos interamericana",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ110": {
+      "id": "orgZ110",
+      "name": "nueva york fuerza",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ139": {
+      "id": "orgZ139",
+      "name": "farc farc-farc union-patriotica piedad-cordoba representante argos gea",
+      "group": 16,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ138": {
+      "id": "orgZ138",
+      "name": "comunista alternativa",
+      "group": 16,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ144": {
+      "id": "orgZ144",
+      "name": "indigena alianza-social",
+      "group": 12,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ147": {
+      "id": "orgZ147",
+      "name": "pin opcion-ciudadana integracion popular presidente alli",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ151": {
+      "id": "orgZ151",
+      "name": "equipo alas",
+      "group": 62,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ148": {
+      "id": "orgZ148",
+      "name": "nacional movimiento-salvacion fondo",
+      "group": 52,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ149": {
+      "id": "orgZ149",
+      "name": "senado partido senador trabajadores confederacion republica senado-congreso",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ143": {
+      "id": "orgZ143",
+      "name": "alianza-verde alcaldia partido-verde",
+      "group": 12,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ142": {
+      "id": "orgZ142",
+      "name": "democratica alianza",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ152": {
+      "id": "orgZ152",
+      "name": "electoral consejo-nacional",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ140": {
+      "id": "orgZ140",
+      "name": "politico frente",
+      "group": 16,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ141": {
+      "id": "orgZ141",
+      "name": "polo-democratico alternativo progresistas",
+      "group": 16,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ150": {
+      "id": "orgZ150",
+      "name": "sergio arboleda",
+      "group": 40,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ146": {
+      "id": "orgZ146",
+      "name": "conservador partido-conservador",
+      "group": 1,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ145": {
+      "id": "orgZ145",
+      "name": "movimiento independiente civico accion",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ157": {
+      "id": "orgZ157",
+      "name": "administrativo tribunal cundinamarca",
+      "group": 31,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ156": {
+      "id": "orgZ156",
+      "name": "ciencias politicas derecho-penal",
+      "group": 24,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ159": {
+      "id": "orgZ159",
+      "name": "char elsa noguera caribe junta-directiva silla salud",
+      "group": 32,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ160": {
+      "id": "orgZ160",
+      "name": "ejercito fuerzas armadas bloque epl",
+      "group": 16,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ155": {
+      "id": "orgZ155",
+      "name": "german gutierrez congreso-santos caldas unidad-nacional ciudadana cordoba",
+      "group": 8,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "orgZ158": {
+      "id": "orgZ158",
+      "name": "empresarial antioqueno grupo",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ23": {
+      "id": "locZ23",
+      "name": "universidad choco quibdo corporacion-autonoma pontificia-bolivariana regional palacios",
+      "group": 61,
+      "isRoot": true,
+      "children": [
+        "locZ122",
+        "U8",
+        "U20",
+        "U24",
+        "U25",
+        "U32",
+        "U36",
+        "U38",
+        "U39",
+        "U40",
+        "U47",
+        "U56"
+      ],
+      "expanded": false
+    },
+    "locZ22": {
+      "id": "locZ22",
+      "name": "nule espana panama calle girardot transmilenio peru",
+      "group": 50,
+      "isRoot": true,
+      "children": [
+        "U22",
+        "U24",
+        "U32",
+        "U40",
+        "U53"
+      ],
+      "expanded": false
+    },
+    "locZ21": {
+      "id": "locZ21",
+      "name": "santander universidad-santo tomas bucaramanga barrancabermeja medellin antioquia",
+      "group": 27,
+      "isRoot": true,
+      "children": [
+        "U3",
+        "U11",
+        "U19",
+        "U24",
+        "U32",
+        "U35",
+        "U43",
+        "U44",
+        "U56",
+        "U59",
+        "U61"
+      ],
+      "expanded": false
+    },
+    "locZ24": {
+      "id": "locZ24",
+      "name": "ministerio ministro gaviria desarrollo interior economico ministro-agricultura",
+      "group": 58,
+      "isRoot": true,
+      "children": [
+        "U2",
+        "U6",
+        "U14",
+        "U17",
+        "U20",
+        "U22",
+        "U24",
+        "U25",
+        "U45",
+        "U51",
+        "U59"
+      ],
+      "expanded": false
+    },
+    "locZ132": {
+      "id": "locZ132",
+      "name": "huila neiva moir hospital alcalde guajira cerrejon",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ135": {
+      "id": "locZ135",
+      "name": "pasto narino secretario-gobierno",
+      "group": 16,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ121": {
+      "id": "locZ121",
+      "name": "choco quibdo palacios rio",
+      "group": 61,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ126": {
+      "id": "locZ126",
+      "name": "estudios centro paris distrital europa instituto alemania",
+      "group": 53,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ133": {
+      "id": "locZ133",
+      "name": "sanchez sanchez-sanchez gomez pastrana toro cambio armitage",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ131": {
+      "id": "locZ131",
+      "name": "santo-domingo colegio comunicaciones londres bavaria ademas unidos-colombia",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ129": {
+      "id": "locZ129",
+      "name": "norte-santander cucuta cucuta-norte italia",
+      "group": 34,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ127": {
+      "id": "locZ127",
+      "name": "escuela superior ciencias",
+      "group": 31,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ123": {
+      "id": "locZ123",
+      "name": "alta consejera",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ125": {
+      "id": "locZ125",
+      "name": "venezuela embajada vivienda unidos washington caracas ministerio-ambiente",
+      "group": 20,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ124": {
+      "id": "locZ124",
+      "name": "barranquilla atlantico barranquilla-barranquilla universidad-norte",
+      "group": 32,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ134": {
+      "id": "locZ134",
+      "name": "corporacion-autonoma regional andrade incoder",
+      "group": 31,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ128": {
+      "id": "locZ128",
+      "name": "ambiente medio ministra",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ130": {
+      "id": "locZ130",
+      "name": "secretario hacienda educacion",
+      "group": 24,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ122": {
+      "id": "locZ122",
+      "name": "universidad pontificia-bolivariana sabana gobernacion-cundinamarca cundinamarca funza",
+      "group": 14,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ120": {
+      "id": "locZ120",
+      "name": "canal suiza paz transporte tribunal-superior publico moreno",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ116": {
+      "id": "locZ116",
+      "name": "nule transmilenio calle girardot",
+      "group": 50,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ119": {
+      "id": "locZ119",
+      "name": "facultad economia rosario",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ117": {
+      "id": "locZ117",
+      "name": "espana panama cartagena peru colombia-colombia madrid brasil",
+      "group": 24,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ118": {
+      "id": "locZ118",
+      "name": "risaralda pereira concejo-bogota nuevo-liberalismo concejo camara distrito",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ114": {
+      "id": "locZ114",
+      "name": "san vicente buenaventura pacifico occidente tumaco",
+      "group": 61,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ12": {
+      "id": "locZ12",
+      "name": "santander bucaramanga barrancabermeja gobernacion-santander universidad-autonoma bucaramanga-santander santander-santander",
+      "group": 27,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ17": {
+      "id": "locZ17",
+      "name": "cali valle gobernacion-valle valle-cauca cali-valle",
+      "group": 38,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ11": {
+      "id": "locZ11",
+      "name": "tomas universidad-santo",
+      "group": 27,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ115": {
+      "id": "locZ115",
+      "name": "caldas manizales gutierrez hoyos termino",
+      "group": 8,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ15": {
+      "id": "locZ15",
+      "name": "boyaca tunja puerto silla lara",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ14": {
+      "id": "locZ14",
+      "name": "publicas obras",
+      "group": 24,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ112": {
+      "id": "locZ112",
+      "name": "andes externado norte universidad-nacional infraestructura caribe ministerio-educacion",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ18": {
+      "id": "locZ18",
+      "name": "carlos juan salud useche procuraduria contraloria-general contraloria",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ110": {
+      "id": "locZ110",
+      "name": "santa-marta magdalena",
+      "group": 40,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ16": {
+      "id": "locZ16",
+      "name": "cauca popayan tolima",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ19": {
+      "id": "locZ19",
+      "name": "polo polo-democratico alcaldia-bogota penalosa luna presidencia",
+      "group": 12,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ111": {
+      "id": "locZ111",
+      "name": "valledupar cesar cultura araujo alvaro",
+      "group": 62,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ13": {
+      "id": "locZ13",
+      "name": "medellin antioquia alcaldia-medellin uraba gobernacion-antioquia fajardo colombiano",
+      "group": 33,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ113": {
+      "id": "locZ113",
+      "name": "derecho constitucional estudio",
+      "group": 40,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ143": {
+      "id": "locZ143",
+      "name": "energia ministro-minas minas ministro-hacienda",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ146": {
+      "id": "locZ146",
+      "name": "bolivar sucre",
+      "group": 25,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ148": {
+      "id": "locZ148",
+      "name": "nacion procuraduria-general",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ149": {
+      "id": "locZ149",
+      "name": "putumayo caqueta sur ecuador",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ139": {
+      "id": "locZ139",
+      "name": "banco-republica ministerio-hacienda banco soacha argentina colombia-unidos san-carlos",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ144": {
+      "id": "locZ144",
+      "name": "cordoba monteria lorica palacio arauca colombia-universidad casanare",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ150": {
+      "id": "locZ150",
+      "name": "gobernacion alcaldia gobernacion-gobernacion jose",
+      "group": 1,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ145": {
+      "id": "locZ145",
+      "name": "maria montes",
+      "group": 16,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ136": {
+      "id": "locZ136",
+      "name": "interior ministro",
+      "group": 58,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ140": {
+      "id": "locZ140",
+      "name": "desarrollo economico universidad-andes",
+      "group": 4,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ138": {
+      "id": "locZ138",
+      "name": "ministerio agricultura relaciones-exteriores",
+      "group": 4,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ137": {
+      "id": "locZ137",
+      "name": "gaviria gaviria-gaviria",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ147": {
+      "id": "locZ147",
+      "name": "justicia corte-suprema palacio-justicia corte-constitucional",
+      "group": 26,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ142": {
+      "id": "locZ142",
+      "name": "ministro-agricultura ley social trabajo londono ivan camara-comercio",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "locZ141": {
+      "id": "locZ141",
+      "name": "republica ministerio-interior congreso francia sena habana general",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ29": {
+      "id": "perZ29",
+      "name": "aguilar hugo-aguilar richard gil tavera luis-alberto naranjo",
+      "group": 30,
+      "isRoot": false,
+      "children": [
+        "U22"
+      ],
+      "expanded": false
+    },
+    "perZ23": {
+      "id": "perZ23",
+      "name": "miguel angel german-vargas cotes nule lleras gerlein",
+      "group": 11,
+      "isRoot": true,
+      "children": [
+        "U20",
+        "U22",
+        "U24",
+        "U25",
+        "U26",
+        "U30",
+        "U36",
+        "U44",
+        "U47",
+        "U50",
+        "U51",
+        "U53",
+        "U59"
+      ],
+      "expanded": false
+    },
+    "perZ22": {
+      "id": "perZ22",
+      "name": "alonso salazar sergio-fajardo federico fajardo luis-perez renjifo",
+      "group": 60,
+      "isRoot": true,
+      "children": [
+        "U29",
+        "U61"
+      ],
+      "expanded": false
+    },
+    "perZ25": {
+      "id": "perZ25",
+      "name": "gaviria garzon samuel-moreno gustavo-petro simon lopez petro",
+      "group": 17,
+      "isRoot": false,
+      "children": [
+        "U10",
+        "U13",
+        "U25",
+        "U51",
+        "U52",
+        "U59"
+      ],
+      "expanded": false
+    },
+    "perZ28": {
+      "id": "perZ28",
+      "name": "cristo juan-fernando alfonso-lopez michelsen antonio corzo villamizar",
+      "group": 34,
+      "isRoot": false,
+      "children": [
+        "U8",
+        "U24",
+        "U36",
+        "U59"
+      ],
+      "expanded": false
+    },
+    "perZ21": {
+      "id": "perZ21",
+      "name": "zuluaga oscar-ivan marta-lucia ramirez hernan yepes omar",
+      "group": 42,
+      "isRoot": false,
+      "children": [
+        "U4",
+        "U16",
+        "U18",
+        "U24",
+        "U25",
+        "U31",
+        "U61"
+      ],
+      "expanded": false
+    },
+    "perZ24": {
+      "id": "perZ24",
+      "name": "luis-carlos restrepo galan angulo sarmiento camilo velez",
+      "group": 13,
+      "isRoot": true,
+      "children": [
+        "U32",
+        "U49",
+        "U60"
+      ],
+      "expanded": false
+    },
+    "perZ27": {
+      "id": "perZ27",
+      "name": "ernesto-samper alfonso horacio-serpa samper cesar-gaviria pastrana andres-pastrana",
+      "group": 15,
+      "isRoot": false,
+      "children": [
+        "U1",
+        "U9",
+        "U25",
+        "U40",
+        "U41",
+        "U51",
+        "U52"
+      ],
+      "expanded": false
+    },
+    "perZ26": {
+      "id": "perZ26",
+      "name": "jaime mauricio gabriel hoyos escobar fabio castro",
+      "group": 36,
+      "isRoot": true,
+      "children": [
+        "perZ140",
+        "U20",
+        "U24",
+        "U25",
+        "U32",
+        "U33",
+        "U34",
+        "U40",
+        "U43",
+        "U46",
+        "U58",
+        "U61"
+      ],
+      "expanded": false
+    },
+    "perZ169": {
+      "id": "perZ169",
+      "name": "aguilar hugo-aguilar richard tavera",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ170": {
+      "id": "perZ170",
+      "name": "oscar naranjo",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ168": {
+      "id": "perZ168",
+      "name": "gil luis-alberto barrera nestor martinez",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ119": {
+      "id": "perZ119",
+      "name": "fernando carrillo villegas julio urrutia cifuentes isabel",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ126": {
+      "id": "perZ126",
+      "name": "daniel coronell garcia",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ116": {
+      "id": "perZ116",
+      "name": "rojas pinilla gustavo",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ118": {
+      "id": "perZ118",
+      "name": "german-vargas lleras vargas-lleras cambio-radical",
+      "group": 11,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ117": {
+      "id": "perZ117",
+      "name": "holguin angela londono",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ128": {
+      "id": "perZ128",
+      "name": "granados sergio diaz martha",
+      "group": 40,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ124": {
+      "id": "perZ124",
+      "name": "ivan-duque duque alejandro-ordonez",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ115": {
+      "id": "perZ115",
+      "name": "nule guido amin",
+      "group": 50,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ127": {
+      "id": "perZ127",
+      "name": "turbay julio-cesar quintero",
+      "group": 31,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ121": {
+      "id": "perZ121",
+      "name": "gerlein roberto char",
+      "group": 32,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ123": {
+      "id": "perZ123",
+      "name": "medina cordoba acosta botero aurelio castillo rey",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ129": {
+      "id": "perZ129",
+      "name": "chavez hugo perez maduro",
+      "group": 16,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ120": {
+      "id": "perZ120",
+      "name": "toro dilian luz roldan",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ113": {
+      "id": "perZ113",
+      "name": "miguel angel",
+      "group": 50,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ114": {
+      "id": "perZ114",
+      "name": "cotes vives rosa campo abadia reyes delgado",
+      "group": 40,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ122": {
+      "id": "perZ122",
+      "name": "mario alberto galvis alejandro",
+      "group": 23,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ125": {
+      "id": "perZ125",
+      "name": "casa narino",
+      "group": 39,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ112": {
+      "id": "perZ112",
+      "name": "renjifo federico",
+      "group": 60,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ111": {
+      "id": "perZ111",
+      "name": "salazar alonso",
+      "group": 8,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ110": {
+      "id": "perZ110",
+      "name": "sergio-fajardo fajardo luis-perez",
+      "group": 60,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ138": {
+      "id": "perZ138",
+      "name": "samuel-moreno moreno antonio-navarro vicente",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ136": {
+      "id": "perZ136",
+      "name": "garzon luis-eduardo angelino",
+      "group": 64,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ133": {
+      "id": "perZ133",
+      "name": "gaviria simon",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ134": {
+      "id": "perZ134",
+      "name": "david luna barguil pineda",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ137": {
+      "id": "perZ137",
+      "name": "lopez claudia clara",
+      "group": 9,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ135": {
+      "id": "perZ135",
+      "name": "gustavo-petro petro bogota",
+      "group": 17,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ163": {
+      "id": "perZ163",
+      "name": "juan-fernando cristo",
+      "group": 34,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ166": {
+      "id": "perZ166",
+      "name": "antonio guerra sanguino bernardo",
+      "group": 31,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ162": {
+      "id": "perZ162",
+      "name": "corzo villamizar ramiro william suarez edgar mora",
+      "group": 34,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ165": {
+      "id": "perZ165",
+      "name": "jose francisco ricardo ernesto ocampo orlando eder",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ167": {
+      "id": "perZ167",
+      "name": "german varon olano",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ164": {
+      "id": "perZ164",
+      "name": "michelsen alfonso-lopez",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ17": {
+      "id": "perZ17",
+      "name": "juan-jose zuccardi romero bolivar",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ16": {
+      "id": "perZ16",
+      "name": "armando benedetti",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ12": {
+      "id": "perZ12",
+      "name": "yepes omar victor barco",
+      "group": 8,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ11": {
+      "id": "perZ11",
+      "name": "zuluaga oscar-ivan",
+      "group": 42,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ18": {
+      "id": "perZ18",
+      "name": "juan-carlos echeverry esguerra morales diego ardila calderon",
+      "group": 22,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ14": {
+      "id": "perZ14",
+      "name": "ramirez marta-lucia",
+      "group": 65,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ19": {
+      "id": "perZ19",
+      "name": "hector gobierno solarte pinzon henao cano correa",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ15": {
+      "id": "perZ15",
+      "name": "antanas-mockus mockus enrique-penalosa",
+      "group": 43,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ13": {
+      "id": "perZ13",
+      "name": "hernan andrade lizcano",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ131": {
+      "id": "perZ131",
+      "name": "galan luis-carlos",
+      "group": 13,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ130": {
+      "id": "perZ130",
+      "name": "restrepo camilo velez jaramillo",
+      "group": 63,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ132": {
+      "id": "perZ132",
+      "name": "angulo sarmiento gallo",
+      "group": 24,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ154": {
+      "id": "perZ154",
+      "name": "ernesto-samper cesar-gaviria samper",
+      "group": 15,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ158": {
+      "id": "perZ158",
+      "name": "fiscal general",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ156": {
+      "id": "perZ156",
+      "name": "serpa horacio-serpa",
+      "group": 37,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ160": {
+      "id": "perZ160",
+      "name": "rafael-pardo pardo luis-fernando mejia arango uribe-uribe",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ161": {
+      "id": "perZ161",
+      "name": "andres-pastrana pastrana belisario-betancur",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ157": {
+      "id": "perZ157",
+      "name": "alfonso gomez-mendez",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ155": {
+      "id": "perZ155",
+      "name": "calle humberto",
+      "group": 54,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ159": {
+      "id": "perZ159",
+      "name": "eduardo montealegre",
+      "group": 64,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ140": {
+      "id": "perZ140",
+      "name": "castro jaime",
+      "group": 36,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ152": {
+      "id": "perZ152",
+      "name": "fabio valencia-cossio",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ151": {
+      "id": "perZ151",
+      "name": "jorge enrique robledo",
+      "group": 16,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ144": {
+      "id": "perZ144",
+      "name": "jesus ivan orozco sanchez gonzalo cepeda virgilio-barco",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ143": {
+      "id": "perZ143",
+      "name": "escobar pablo",
+      "group": 6,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ150": {
+      "id": "perZ150",
+      "name": "hurtado gomez alvarez cecilia",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ142": {
+      "id": "perZ142",
+      "name": "rodrigo rivera guerrero ospina",
+      "group": 55,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ141": {
+      "id": "perZ141",
+      "name": "araujo noguera hernando presidente hernandez duran uribe-juan",
+      "group": 62,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ145": {
+      "id": "perZ145",
+      "name": "hoyos luis-alfonso echeverri",
+      "group": 8,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ148": {
+      "id": "perZ148",
+      "name": "ramos alfredo luis",
+      "group": 24,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ149": {
+      "id": "perZ149",
+      "name": "arias felipe andres noemi-sanin",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ147": {
+      "id": "perZ147",
+      "name": "gabriel silva prieto uribe-velez",
+      "group": 41,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ153": {
+      "id": "perZ153",
+      "name": "velasquez cesar emilio gutierrez valencia mesa hacienda",
+      "group": 8,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ139": {
+      "id": "perZ139",
+      "name": "mauricio cardenas",
+      "group": 0,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "perZ146": {
+      "id": "perZ146",
+      "name": "luis-guillermo giraldo",
+      "group": 8,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "adjZ14": {
+      "id": "adjZ14",
+      "name": "constitucional juridico auxiliar administrativo fuerte encargar relacionar",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "adjZ17": {
+      "id": "adjZ17",
+      "name": "programatico publico-privar recentar anterior mismo famoso especial",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "adjZ111": {
+      "id": "adjZ111",
+      "name": "laboral especializar fiscal claro suponer indebido amplio",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "adjZ114": {
+      "id": "adjZ114",
+      "name": "nacional principal tradicional electo humanitario judicial apoyar",
+      "group": 19,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "adjZ19": {
+      "id": "adjZ19",
+      "name": "militar positivo guerrillero falso oficial",
+      "group": 2,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "adjZ13": {
+      "id": "adjZ13",
+      "name": "condenar departamental paramilitar presunto posible asesinar deber",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "adjZ16": {
+      "id": "adjZ16",
+      "name": "liberal-politico viejo universitario ilicito fundamental publico-publico urbano",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "adjZ113": {
+      "id": "adjZ113",
+      "name": "empresarial grande directivo financiero comercial privar antioqueno",
+      "group": 19,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "adjZ116": {
+      "id": "adjZ116",
+      "name": "ultimo politico-politico votar popular familiar menor conocido",
+      "group": 24,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "adjZ15": {
+      "id": "adjZ15",
+      "name": "armar ilegal",
+      "group": 31,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "adjZ110": {
+      "id": "adjZ110",
+      "name": "electoral elegir conservador siguiente legislativo politico-liberal uribista",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "adjZ18": {
+      "id": "adjZ18",
+      "name": "vial civil cuartar alto social regional liderar",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "adjZ12": {
+      "id": "adjZ12",
+      "name": "antiguar inhabilitar derecho gran nacer general academico",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "adjZ112": {
+      "id": "adjZ112",
+      "name": "actual legal cuestionar investigar suficiente malo doblar",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "adjZ11": {
+      "id": "adjZ11",
+      "name": "rojo cultural cafetero periodistico",
+      "group": 47,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "adjZ115": {
+      "id": "adjZ115",
+      "name": "campesino rural agrario previo indigena ambiental vicepresidencial",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ14": {
+      "id": "nounZ14",
+      "name": "educacion rector programar comunidad octubre frente cambiar",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ17": {
+      "id": "nounZ17",
+      "name": "proyectar ley proyecto",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ120": {
+      "id": "nounZ120",
+      "name": "hombre favor lugar mayar principio presidencia resultar",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ123": {
+      "id": "nounZ123",
+      "name": "decision medir cargo juez junio nivel estrategia",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ117": {
+      "id": "nounZ117",
+      "name": "universidad profesor reformar justicia",
+      "group": 30,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ111": {
+      "id": "nounZ111",
+      "name": "medio comunicacion periodista gerente gerencia",
+      "group": 16,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ114": {
+      "id": "nounZ114",
+      "name": "personar salir pasar fuente renunciar directivo hacer",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ19": {
+      "id": "nounZ19",
+      "name": "votacion listo curul movimiento",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ13": {
+      "id": "nounZ13",
+      "name": "fundador mundo decada organizacion problema area direccion",
+      "group": 19,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ16": {
+      "id": "nounZ16",
+      "name": "hermanar hermano delito",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ113": {
+      "id": "nounZ113",
+      "name": "economista desarrollar economia consultor parapolitica entidad municipio",
+      "group": 24,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ122": {
+      "id": "nounZ122",
+      "name": "irregularidad millon-peso contratar contrato contratacion millon administracion",
+      "group": 50,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ116": {
+      "id": "nounZ116",
+      "name": "magistrado derecho terna referendo",
+      "group": 3,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ15": {
+      "id": "nounZ15",
+      "name": "socio negocio amigar padre firmar papa expresidente",
+      "group": 19,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ119": {
+      "id": "nounZ119",
+      "name": "volver lider formula congresista consultar izquierdo",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ110": {
+      "id": "nounZ110",
+      "name": "candidatura aspiracion liberal aval concejal departamento diputar",
+      "group": 1,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ125": {
+      "id": "nounZ125",
+      "name": "paz guerrilla negociacion",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ18": {
+      "id": "nounZ18",
+      "name": "salud esposo servicio esposar momento relacion manir",
+      "group": 67,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ12": {
+      "id": "nounZ12",
+      "name": "debatir gracia cabeza final control punto cercania",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ118": {
+      "id": "nounZ118",
+      "name": "escandalo denunciar dia funcionario acordar marzo coalicion",
+      "group": 45,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ124": {
+      "id": "nounZ124",
+      "name": "gobernacion alcaldia alianza",
+      "group": 5,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ112": {
+      "id": "nounZ112",
+      "name": "construccion obrar concesion negociar ejemplo poder influenciar",
+      "group": 19,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ11": {
+      "id": "nounZ11",
+      "name": "comandante general operacion",
+      "group": 2,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ121": {
+      "id": "nounZ121",
+      "name": "junto empresario gremio vicepresidente embajador nombramiento",
+      "group": 48,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "nounZ115": {
+      "id": "nounZ115",
+      "name": "conflicto victima",
+      "group": 68,
+      "isRoot": false,
+      "children": [],
+      "expanded": false
+    },
+    "U0": {
+      "id": "U0",
+      "name": "ernesto-samper ministro andres-pastrana horacio-serpa pastrana samper alfonso",
+      "group": 15,
+      "isRoot": true,
+      "children": [
+        "propnZ29",
+        "perZ27"
+      ],
+      "expanded": false
+    },
+    "U1": {
+      "id": "U1",
+      "name": "cesar-gaviria ernesto-samper andres-pastrana pastrana samper",
+      "group": 15,
+      "isRoot": false,
+      "children": [
+        "propnZ146",
+        "propnZ145",
+        "perZ154"
+      ],
+      "expanded": false
+    },
+    "U2": {
+      "id": "U2",
+      "name": "candidatura gobernacion partido-conservador conservador concejo partido cambio-radical",
+      "group": 1,
+      "isRoot": false,
+      "children": [
+        "propnZ120",
+        "propnZ119",
+        "orgZ146",
+        "locZ150",
+        "nounZ110"
+      ],
+      "expanded": false
+    },
+    "U3": {
+      "id": "U3",
+      "name": "gobernacion-valle valle-cauca valle popular abadia cali-valle cali",
+      "group": 38,
+      "isRoot": false,
+      "children": [
+        "propnZ184",
+        "locZ17"
+      ],
+      "expanded": false
+    },
+    "U4": {
+      "id": "U4",
+      "name": "penalosa alcaldia-bogota antanas-mockus enrique-penalosa mockus florez partido-verde",
+      "group": 43,
+      "isRoot": false,
+      "children": [
+        "propnZ114",
+        "propnZ115",
+        "perZ15"
+      ],
+      "expanded": false
+    },
+    "U5": {
+      "id": "U5",
+      "name": "banco-republica departamento-nacional desarrollo banco-interamericano planeacion banco plan",
+      "group": 7,
+      "isRoot": false,
+      "children": [
+        "propnZ167",
+        "propnZ166",
+        "propnZ168",
+        "orgZ129",
+        "orgZ130"
+      ],
+      "expanded": false
+    },
+    "U6": {
+      "id": "U6",
+      "name": "sala corte penal palacio-justicia corte-suprema corte-constitucional justicia",
+      "group": 26,
+      "isRoot": false,
+      "children": [
+        "propnZ131",
+        "propnZ129",
+        "locZ147"
+      ],
+      "expanded": false
+    },
+    "U7": {
+      "id": "U7",
+      "name": "juan-fernando ramiro alfonso-lopez cristo suarez cucuta norte-santander",
+      "group": 34,
+      "isRoot": true,
+      "children": [
+        "propnZ28",
+        "perZ28"
+      ],
+      "expanded": false
+    },
+    "U8": {
+      "id": "U8",
+      "name": "corzo juan-fernando ramiro fernando suarez cucuta norte-santander",
+      "group": 34,
+      "isRoot": false,
+      "children": [
+        "propnZ141",
+        "propnZ142",
+        "propnZ143",
+        "locZ129",
+        "perZ163",
+        "perZ162"
+      ],
+      "expanded": false
+    },
+    "U9": {
+      "id": "U9",
+      "name": "serpa horacio-serpa",
+      "group": 37,
+      "isRoot": false,
+      "children": [
+        "propnZ176",
+        "perZ156"
+      ],
+      "expanded": false
+    },
+    "U10": {
+      "id": "U10",
+      "name": "lopez clara alfonso claudia",
+      "group": 9,
+      "isRoot": false,
+      "children": [
+        "propnZ11",
+        "perZ137"
+      ],
+      "expanded": false
+    },
+    "U11": {
+      "id": "U11",
+      "name": "uraba alcaldia-medellin antioquia gobernacion-antioquia velez fajardo medellin",
+      "group": 33,
+      "isRoot": false,
+      "children": [
+        "propnZ125",
+        "locZ13"
+      ],
+      "expanded": false
+    },
+    "U12": {
+      "id": "U12",
+      "name": "samuel-moreno gaviria gustavo-petro garzon petro polo-democratico polo",
+      "group": 17,
+      "isRoot": true,
+      "children": [
+        "propnZ27",
+        "perZ25"
+      ],
+      "expanded": false
+    },
+    "U13": {
+      "id": "U13",
+      "name": "petro gustavo-petro bogota",
+      "group": 17,
+      "isRoot": false,
+      "children": [
+        "propnZ138",
+        "perZ135"
+      ],
+      "expanded": false
+    },
+    "U14": {
+      "id": "U14",
+      "name": "eder reyes desarrollo agricultura universidad-andes economico ministerio",
+      "group": 4,
+      "isRoot": false,
+      "children": [
+        "propnZ135",
+        "locZ140",
+        "locZ138"
+      ],
+      "expanded": false
+    },
+    "U15": {
+      "id": "U15",
+      "name": "zuluaga marta-lucia manizales oscar-ivan hernan caldas ramirez",
+      "group": 42,
+      "isRoot": true,
+      "children": [
+        "propnZ214",
+        "perZ21"
+      ],
+      "expanded": false
+    },
+    "U16": {
+      "id": "U16",
+      "name": "oscar-ivan zuluaga",
+      "group": 42,
+      "isRoot": false,
+      "children": [
+        "propnZ171",
+        "perZ11"
+      ],
+      "expanded": false
+    },
+    "U17": {
+      "id": "U17",
+      "name": "guillermo ministro programa social interior sanin",
+      "group": 58,
+      "isRoot": false,
+      "children": [
+        "propnZ144",
+        "locZ136"
+      ],
+      "expanded": false
+    },
+    "U18": {
+      "id": "U18",
+      "name": "lucia ramirez marta marta-lucia",
+      "group": 65,
+      "isRoot": false,
+      "children": [
+        "propnZ147",
+        "perZ14"
+      ],
+      "expanded": false
+    },
+    "U19": {
+      "id": "U19",
+      "name": "gobernacion-santander barrancabermeja bucaramanga universidad-santo tomas santander universidad-autonoma",
+      "group": 27,
+      "isRoot": false,
+      "children": [
+        "propnZ123",
+        "locZ12",
+        "locZ11"
+      ],
+      "expanded": false
+    },
+    "U20": {
+      "id": "U20",
+      "name": "robledo ejercito hugo polo-democratico farc comunista politico",
+      "group": 16,
+      "isRoot": false,
+      "children": [
+        "propnZ122",
+        "propnZ12",
+        "propnZ137",
+        "orgZ139",
+        "orgZ138",
+        "orgZ140",
+        "orgZ141",
+        "orgZ160",
+        "locZ135",
+        "locZ145",
+        "perZ129",
+        "perZ151",
+        "nounZ111"
+      ],
+      "expanded": false
+    },
+    "U21": {
+      "id": "U21",
+      "name": "democratica alternativo buscar surgir polo-democratico ocurrir nacer",
+      "group": 16,
+      "isRoot": true,
+      "children": [
+        "verbZ21",
+        "orgZ24"
+      ],
+      "expanded": false
+    },
+    "U22": {
+      "id": "U22",
+      "name": "ciudadana empezar tener-participar naranjo minas industrial establecer",
+      "group": 30,
+      "isRoot": false,
+      "children": [
+        "propnZ121",
+        "propnZ188",
+        "propnZ159",
+        "verbZ116",
+        "verbZ112",
+        "verbZ111",
+        "orgZ17",
+        "orgZ147",
+        "locZ119",
+        "locZ143",
+        "perZ169",
+        "perZ170",
+        "perZ168",
+        "perZ123",
+        "adjZ111",
+        "adjZ12",
+        "adjZ112",
+        "nounZ117"
+      ],
+      "expanded": false
+    },
+    "U23": {
+      "id": "U23",
+      "name": "aguilar hugo-aguilar nombrar-llegar richard suspender senalar establecer",
+      "group": 30,
+      "isRoot": true,
+      "children": [
+        "verbZ22",
+        "perZ29"
+      ],
+      "expanded": false
+    },
+    "U24": {
+      "id": "U24",
+      "name": "espectador eps medio graduar-tener conseguir senalar externado",
+      "group": 67,
+      "isRoot": false,
+      "children": [
+        "propnZ191",
+        "propnZ196",
+        "propnZ132",
+        "propnZ113",
+        "verbZ120",
+        "verbZ117",
+        "verbZ14",
+        "verbZ114",
+        "verbZ115",
+        "orgZ137",
+        "orgZ12",
+        "orgZ13",
+        "locZ131",
+        "locZ128",
+        "locZ120",
+        "locZ15",
+        "locZ112",
+        "locZ18",
+        "locZ149",
+        "perZ126",
+        "perZ120",
+        "perZ164",
+        "perZ17",
+        "perZ16",
+        "perZ19",
+        "perZ144",
+        "adjZ17",
+        "adjZ115",
+        "nounZ18"
+      ],
+      "expanded": false
+    },
+    "U25": {
+      "id": "U25",
+      "name": "nueva valencia-cossio senado-camara penal hernan vega seguridad",
+      "group": 47,
+      "isRoot": false,
+      "children": [
+        "propnZ194",
+        "propnZ182",
+        "propnZ126",
+        "propnZ172",
+        "orgZ134",
+        "orgZ133",
+        "orgZ125",
+        "orgZ121",
+        "orgZ14",
+        "orgZ110",
+        "orgZ158",
+        "locZ132",
+        "locZ123",
+        "locZ144",
+        "locZ141",
+        "perZ117",
+        "perZ134",
+        "perZ13",
+        "perZ158",
+        "perZ152",
+        "adjZ11"
+      ],
+      "expanded": false
+    },
+    "U26": {
+      "id": "U26",
+      "name": "lleras vargas-lleras cambio-radical german-vargas",
+      "group": 11,
+      "isRoot": false,
+      "children": [
+        "propnZ192",
+        "perZ118"
+      ],
+      "expanded": false
+    },
+    "U27": {
+      "id": "U27",
+      "name": "militar defensa comandante positivo general fuerzas-militares seguridad",
+      "group": 2,
+      "isRoot": false,
+      "children": [
+        "propnZ187",
+        "orgZ126",
+        "adjZ19",
+        "nounZ11"
+      ],
+      "expanded": false
+    },
+    "U28": {
+      "id": "U28",
+      "name": "consejero alto-consejero alto presidencial",
+      "group": 56,
+      "isRoot": false,
+      "children": [
+        "propnZ190",
+        "orgZ115"
+      ],
+      "expanded": false
+    },
+    "U29": {
+      "id": "U29",
+      "name": "sergio-fajardo sergio luis-perez renjifo arboleda federico fajardo",
+      "group": 60,
+      "isRoot": false,
+      "children": [
+        "propnZ195",
+        "perZ112",
+        "perZ110"
+      ],
+      "expanded": false
+    },
+    "U30": {
+      "id": "U30",
+      "name": "tiempo casa semana narino",
+      "group": 39,
+      "isRoot": false,
+      "children": [
+        "propnZ193",
+        "perZ125"
+      ],
+      "expanded": false
+    },
+    "U31": {
+      "id": "U31",
+      "name": "echeverry mejia juan-carlos esguerra soto morales londono",
+      "group": 22,
+      "isRoot": false,
+      "children": [
+        "propnZ185",
+        "perZ18"
+      ],
+      "expanded": false
+    },
+    "U32": {
+      "id": "U32",
+      "name": "garcia judicatura risaralda patriotica llamar ramos regresar",
+      "group": 24,
+      "isRoot": false,
+      "children": [
+        "propnZ186",
+        "propnZ156",
+        "propnZ160",
+        "propnZ124",
+        "verbZ127",
+        "verbZ16",
+        "orgZ119",
+        "orgZ11",
+        "orgZ16",
+        "orgZ156",
+        "locZ130",
+        "locZ117",
+        "locZ14",
+        "perZ132",
+        "perZ148",
+        "adjZ116",
+        "nounZ113"
+      ],
+      "expanded": false
+    },
+    "U33": {
+      "id": "U33",
+      "name": "escobar pablo",
+      "group": 6,
+      "isRoot": false,
+      "children": [
+        "propnZ189",
+        "perZ143"
+      ],
+      "expanded": false
+    },
+    "U34": {
+      "id": "U34",
+      "name": "rodrigo rivera ospina guerrero ivan",
+      "group": 55,
+      "isRoot": false,
+      "children": [
+        "propnZ183",
+        "perZ142"
+      ],
+      "expanded": false
+    },
+    "U35": {
+      "id": "U35",
+      "name": "indigena empresa verde alianza-verde bogota alianza polo",
+      "group": 12,
+      "isRoot": false,
+      "children": [
+        "propnZ116",
+        "orgZ132",
+        "orgZ144",
+        "orgZ143",
+        "locZ19"
+      ],
+      "expanded": false
+    },
+    "U36": {
+      "id": "U36",
+      "name": "secuestrar turbay autonoma caracol duque navarro superior",
+      "group": 31,
+      "isRoot": false,
+      "children": [
+        "propnZ117",
+        "propnZ112",
+        "propnZ15",
+        "propnZ16",
+        "propnZ17",
+        "propnZ174",
+        "verbZ119",
+        "verbZ19",
+        "verbZ18",
+        "orgZ113",
+        "orgZ157",
+        "locZ127",
+        "locZ134",
+        "perZ127",
+        "perZ166",
+        "adjZ15"
+      ],
+      "expanded": false
+    },
+    "U37": {
+      "id": "U37",
+      "name": "congreso-partido senado-partido asamblea departamental partido-liberal constituyente liberal",
+      "group": 49,
+      "isRoot": false,
+      "children": [
+        "propnZ118",
+        "propnZ177",
+        "orgZ117",
+        "orgZ116"
+      ],
+      "expanded": false
+    },
+    "U38": {
+      "id": "U38",
+      "name": "unidos vivienda washington urrutia chavez venezuela embajada",
+      "group": 20,
+      "isRoot": false,
+      "children": [
+        "propnZ151",
+        "propnZ150",
+        "locZ125"
+      ],
+      "expanded": false
+    },
+    "U39": {
+      "id": "U39",
+      "name": "estudios naciones-unidas paris universidad-javeriana politicos pontificia centro",
+      "group": 53,
+      "isRoot": false,
+      "children": [
+        "propnZ149",
+        "orgZ135",
+        "orgZ111",
+        "locZ126"
+      ],
+      "expanded": false
+    },
+    "U40": {
+      "id": "U40",
+      "name": "arias pedir gomez denunciar cumplir decidir intentar",
+      "group": 45,
+      "isRoot": false,
+      "children": [
+        "propnZ133",
+        "propnZ127",
+        "verbZ125",
+        "verbZ133",
+        "verbZ123",
+        "verbZ121",
+        "verbZ130",
+        "verbZ128",
+        "verbZ132",
+        "verbZ131",
+        "verbZ12",
+        "orgZ122",
+        "orgZ152",
+        "orgZ145",
+        "locZ133",
+        "locZ118",
+        "perZ161",
+        "perZ157",
+        "perZ150",
+        "perZ149",
+        "adjZ13",
+        "adjZ110",
+        "nounZ120",
+        "nounZ123",
+        "nounZ19",
+        "nounZ119",
+        "nounZ12",
+        "nounZ118"
+      ],
+      "expanded": false
+    },
+    "U41": {
+      "id": "U41",
+      "name": "martinez humberto calle",
+      "group": 54,
+      "isRoot": false,
+      "children": [
+        "propnZ134",
+        "perZ155"
+      ],
+      "expanded": false
+    },
+    "U42": {
+      "id": "U42",
+      "name": "fiscal fiscalia nacion morales fiscalia-fiscalia general das",
+      "group": 29,
+      "isRoot": false,
+      "children": [
+        "propnZ130",
+        "orgZ123",
+        "orgZ124"
+      ],
+      "expanded": false
+    },
+    "U43": {
+      "id": "U43",
+      "name": "valledupar araujo equipo cesar jaime castro alas",
+      "group": 62,
+      "isRoot": false,
+      "children": [
+        "propnZ158",
+        "orgZ151",
+        "locZ111",
+        "perZ141"
+      ],
+      "expanded": false
+    },
+    "U44": {
+      "id": "U44",
+      "name": "sergio universidad-externado derecho santa-marta granados luna cotes",
+      "group": 40,
+      "isRoot": false,
+      "children": [
+        "propnZ164",
+        "propnZ165",
+        "propnZ14",
+        "orgZ118",
+        "orgZ150",
+        "locZ110",
+        "locZ113",
+        "perZ128",
+        "perZ114"
+      ],
+      "expanded": false
+    },
+    "U45": {
+      "id": "U45",
+      "name": "sucre caribe bloque romero bolivar cartagena cordoba",
+      "group": 25,
+      "isRoot": false,
+      "children": [
+        "propnZ161",
+        "locZ146"
+      ],
+      "expanded": false
+    },
+    "U46": {
+      "id": "U46",
+      "name": "mauricio cardenas",
+      "group": 0,
+      "isRoot": false,
+      "children": [
+        "propnZ157",
+        "perZ139"
+      ],
+      "expanded": false
+    },
+    "U47": {
+      "id": "U47",
+      "name": "char noguera roberto elsa barranquilla gerlein atlantico",
+      "group": 32,
+      "isRoot": false,
+      "children": [
+        "propnZ163",
+        "propnZ162",
+        "orgZ159",
+        "locZ124",
+        "perZ121"
+      ],
+      "expanded": false
+    },
+    "U48": {
+      "id": "U48",
+      "name": "victima fundacion vasquez paz conflicto ley alto-comisionado",
+      "group": 68,
+      "isRoot": false,
+      "children": [
+        "propnZ154",
+        "orgZ127",
+        "nounZ115"
+      ],
+      "expanded": false
+    },
+    "U49": {
+      "id": "U49",
+      "name": "sarmiento luis-carlos grupo galan",
+      "group": 13,
+      "isRoot": false,
+      "children": [
+        "propnZ179",
+        "perZ131"
+      ],
+      "expanded": false
+    },
+    "U50": {
+      "id": "U50",
+      "name": "alberto alejandro mario universidad-nacional galvis",
+      "group": 23,
+      "isRoot": false,
+      "children": [
+        "propnZ181",
+        "perZ122"
+      ],
+      "expanded": false
+    },
+    "U51": {
+      "id": "U51",
+      "name": "presentar rafael-pardo corte reemplazar prosperidad demandar seguir",
+      "group": 3,
+      "isRoot": false,
+      "children": [
+        "propnZ178",
+        "verbZ126",
+        "verbZ124",
+        "verbZ17",
+        "verbZ15",
+        "orgZ136",
+        "orgZ120",
+        "orgZ15",
+        "locZ139",
+        "locZ137",
+        "perZ119",
+        "perZ133",
+        "perZ160",
+        "adjZ14",
+        "nounZ14",
+        "nounZ17",
+        "nounZ114",
+        "nounZ116"
+      ],
+      "expanded": false
+    },
+    "U52": {
+      "id": "U52",
+      "name": "eduardo montealegre angelino garzon clara luis-eduardo",
+      "group": 64,
+      "isRoot": false,
+      "children": [
+        "propnZ180",
+        "perZ136",
+        "perZ159"
+      ],
+      "expanded": false
+    },
+    "U53": {
+      "id": "U53",
+      "name": "nule angel irregularidad amenazar suspender miguel transmilenio",
+      "group": 50,
+      "isRoot": false,
+      "children": [
+        "propnZ13",
+        "verbZ118",
+        "locZ116",
+        "perZ115",
+        "perZ113",
+        "nounZ122"
+      ],
+      "expanded": false
+    },
+    "U54": {
+      "id": "U54",
+      "name": "instituto financiero colombiano",
+      "group": 10,
+      "isRoot": false,
+      "children": [
+        "propnZ110",
+        "orgZ154"
+      ],
+      "expanded": false
+    },
+    "U55": {
+      "id": "U55",
+      "name": "negocios gerencia publica administracion gestion publica-universidad",
+      "group": 28,
+      "isRoot": false,
+      "children": [
+        "propnZ111",
+        "orgZ18"
+      ],
+      "expanded": false
+    },
+    "U56": {
+      "id": "U56",
+      "name": "pacifico san buenaventura quibdo vicente palacios choco",
+      "group": 61,
+      "isRoot": false,
+      "children": [
+        "propnZ19",
+        "locZ121",
+        "locZ114"
+      ],
+      "expanded": false
+    },
+    "U57": {
+      "id": "U57",
+      "name": "junto cafeteros asociacion federacion-nacional colombiana empresario federacion",
+      "group": 48,
+      "isRoot": false,
+      "children": [
+        "propnZ18",
+        "orgZ131",
+        "nounZ121"
+      ],
+      "expanded": false
+    },
+    "U58": {
+      "id": "U58",
+      "name": "uribe-velez salazar prieto perez gutierrez silva gabriel",
+      "group": 41,
+      "isRoot": false,
+      "children": [
+        "propnZ128",
+        "perZ147"
+      ],
+      "expanded": false
+    },
+    "U59": {
+      "id": "U59",
+      "name": "procuraduria moreno cartel distrital estudiar-trabajar armar enfrentar",
+      "group": 5,
+      "isRoot": false,
+      "children": [
+        "propnZ140",
+        "propnZ139",
+        "propnZ153",
+        "verbZ134",
+        "verbZ129",
+        "verbZ110",
+        "orgZ153",
+        "orgZ19",
+        "orgZ149",
+        "orgZ142",
+        "locZ16",
+        "locZ148",
+        "locZ142",
+        "perZ116",
+        "perZ124",
+        "perZ138",
+        "perZ165",
+        "perZ167",
+        "adjZ16",
+        "adjZ18",
+        "nounZ16",
+        "nounZ125",
+        "nounZ124"
+      ],
+      "expanded": false
+    },
+    "U60": {
+      "id": "U60",
+      "name": "restrepo jaramillo camilo velez",
+      "group": 63,
+      "isRoot": false,
+      "children": [
+        "propnZ136",
+        "perZ130"
+      ],
+      "expanded": false
+    },
+    "U61": {
+      "id": "U61",
+      "name": "giraldo salazar german virgilio surgir caldas yepes",
+      "group": 8,
+      "isRoot": false,
+      "children": [
+        "propnZ170",
+        "propnZ173",
+        "propnZ169",
+        "verbZ11",
+        "orgZ155",
+        "locZ115",
+        "perZ111",
+        "perZ12",
+        "perZ145",
+        "perZ153",
+        "perZ146"
+      ],
+      "expanded": false
+    },
+    "U62": {
+      "id": "U62",
+      "name": "nacional devolver manejar empresarial socio fundador construccion",
+      "group": 19,
+      "isRoot": false,
+      "children": [
+        "verbZ135",
+        "adjZ114",
+        "adjZ113",
+        "nounZ13",
+        "nounZ15",
+        "nounZ112"
+      ],
+      "expanded": false
+    }
+  },
+  "links": []
+}

@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Graph</title>
+</head>
+<style>
+    div.tooltip {
+        position: absolute;
+        background-color: white;
+        max-width: 400px;
+        height: auto;
+        padding: 1px;
+        border-style: solid;
+        border-radius: 4px;
+        border-width: 1px;
+        box-shadow: 3px 3px 10px rgba(0, 0, 0, .5);
+        pointer-events: none;
+    }
+
+    line {
+        fill: none;
+        stroke: #000;
+        stroke-width: 1px;
+        cursor: default;
+    }
+
+</style>
+<body>
+<script src='https://d3js.org/d3.v5.min.js'></script>
+<script>
+    const width = 1400, height = 800;
+    const color = d3.scaleOrdinal(d3.schemeCategory10);
+    let nodes = [], nodesDict = {}, links = [], linksDict = {}, nodeParents = {}, data
+
+    let tooltip = d3.select("body")
+        .append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
+
+    const svg = d3.select("body")
+        .append("svg")
+        .attr("width", width)
+        .attr("height", height);
+
+    let container = svg.append("g");
+
+    svg.call(
+        d3.zoom()
+            .scaleExtent([.1, 4])
+            .on("zoom", function () {
+                container.attr("transform", d3.event.transform);
+            })
+    );
+
+    svg.append('svg:defs').append('svg:marker')
+        .attr('id', 'end-arrow')
+        .attr('viewBox', '0 -5 10 10')
+        .attr('refX', 18)
+        .attr('markerWidth', 7)
+        .attr('markerHeight', 7)
+        .attr('orient', 'auto')
+        .append('svg:path')
+        .attr('d', 'M0,-5L10,0L0,5')
+        .attr('fill', '#000');
+
+    const force = d3.forceSimulation()
+        .force("charge", d3.forceManyBody().strength(-3000))
+        .force("center", d3.forceCenter(width / 2, height / 2))
+        .force("x", d3.forceX(width / 2).strength(1))
+        .force("y", d3.forceY(height / 2).strength(1))
+        .force("link", d3.forceLink(links).id(function (d) {
+            return d.id;
+        }).distance(50).strength(1))
+    // .force("charge", d3.forceManyBody())
+    // .force("x", d3.forceX(width / 2))
+    // .force("y", d3.forceY(height / 2));
+
+    d3.json("graph.json").then(function (d) {
+        data = d;
+        for (let k in data.nodes)
+            if (data.nodes.hasOwnProperty(k))
+                if (data.nodes[k].isRoot) {
+                    nodes.push(data.nodes[k]);
+                    nodesDict[k] = data.nodes[k];
+                }
+
+        data.links.forEach(function (d) {
+            let link = {source: nodesDict[d.source], target: nodesDict[d.target], id: d.id};
+            linksDict[d.id] = link;
+            links.push(link)
+        })
+        setup()
+    });
+
+    function setup() {
+        force.nodes(nodes);
+        force.force("link", d3.forceLink(links).strength(1).distance(100));
+
+        container.selectAll("line.link")
+            .data(links)
+            .enter().insert("line")
+            .attr("class", 'link')
+            .attr("id", function (d) {
+                return d.id;
+            })
+            .style('marker-end', 'url(#end-arrow)')
+            .exit().remove();
+
+        container.selectAll("circle.node")
+            .data(nodes)
+            .enter().append("circle")
+            .attr("class", "node")
+            .attr("r", 6)
+            .attr("id", function (d) {
+                return d.id;
+            })
+            .attr("fill", function (d) {
+                return color(d.group);
+            })
+            .style("stroke", "#000")
+            .on("click", function (d) {
+                force.stop();
+                expand(d);
+                setup();
+                if (force.alpha() < 0.05)
+                    force.alpha(0.05);
+                force.restart();
+            })
+            .on('mouseover.tooltip', function (d) {
+                tooltip.transition()
+                    .duration(300)
+                    .style("opacity", .8);
+                tooltip.html(d.name)
+                    .style("left", (d3.event.pageX) + "px")
+                    .style("top", (d3.event.pageY + 10) + "px");
+            }).on("mouseout.tooltip", function () {
+            tooltip.transition()
+                .duration(100)
+                .style("opacity", 0);
+        })
+            .call(d3.drag()
+                .on("start", dragStarted)
+                .on("drag", dragged))
+
+        force.on("tick", function () {
+            svg.selectAll("line.link")
+                .attr("x1", function (d) {
+                    return d.source.x;
+                })
+                .attr("y1", function (d) {
+                    return d.source.y;
+                })
+                .attr("x2", function (d) {
+                    return d.target.x;
+                })
+                .attr("y2", function (d) {
+                    return d.target.y;
+                });
+            svg.selectAll("circle.node")
+                .attr("cx", function (d) {
+                    return d.x;
+                })
+                .attr("cy", function (d) {
+                    return d.y;
+                });
+        });
+    }
+
+    function dragStarted(d) {
+        if (!d3.event.active) force.alphaTarget(0.05).restart()
+        d.fx = d.x;
+        d.fy = d.y;
+    }
+
+    function dragged(d) {
+        d.fx = d3.event.x;
+        d.fy = d3.event.y;
+    }
+
+    function removeNode(node) {
+        delete nodesDict[node.id];
+        svg.select('#' + node.id).remove();
+        node.children.forEach(function (k) {
+            if (nodesDict.hasOwnProperty(k)) {
+                let linkId = node.id + '-' + k;
+                delete linksDict[linkId];
+                svg.select('#' + linkId).remove();
+                nodeParents[k] -= 1
+                if (nodeParents[k] === 0)
+                    removeNode(data.nodes[k]);
+            }
+        })
+    }
+
+    function expand(node) {
+        if (!node.expanded) {
+            node.children.forEach(function (k) {
+                nodes.push(data.nodes[k]);
+                let linkId = node.id + '-' + k;
+                let link = {source: node, target: data.nodes[k], id: linkId};
+                links.push(link);
+                nodesDict[k] = data.nodes[k];
+                linksDict[linkId] = link;
+                if (nodeParents.hasOwnProperty(k))
+                    nodeParents[k] += 1
+                else
+                    nodeParents[k] = 1
+            })
+            node.expanded = true;
+        } else {
+            node.expanded = false;
+            removeNode(node)
+            nodes = [];
+            links = [];
+            for (let k in nodesDict)
+                nodes.push(nodesDict[k]);
+            nodes.push(node);
+            nodesDict[node.id] = node;
+            for (let k in linksDict)
+                links.push(linksDict[k]);
+        }
+    }
+</script>
+</body>
+</html>

@@ -13,4 +13,5 @@ fusion/single_matrix
 fusion/GFSC
 fusion/gbs
 *.npy
-*.html
+fusion/graphs/d3/templates
+fusion/graphs/html
