@@ -8,6 +8,7 @@
 **/topic_models/
 *.swp
 **/HLTA-deps.jar
+**/HLTA.jar
 fusion/heavy_matrices
 fusion/single_matrix
 fusion/GFSC
@@ -15,3 +16,4 @@ fusion/gbs
 *.npy
 fusion/graphs/d3/templates
 fusion/graphs/html
+

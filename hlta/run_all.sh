@@ -1,60 +1,49 @@
+#!/bin/bash
 
-# find "$1" -type d -name "$1"_* | xargs -n1 -I {} sh hlta-es.sh {} 4 topic_models/{} 
+#First parameter, dataset folder, for the moment must be in this folder and with sub folders specified in the list
+#prefixes with the structure folder_prefix
+#Second parameter, number of cores to be used
+#You can modify this script and hlta.sh and hlta-es.sh scripts to specify more parameters
 
-# mkdir topic_models/profiles/profiles_adj
+if [ $# -lt 2 ]; then
+  echo 1>&2 "$0: not enough arguments"
+  exit 2
+elif [ $# -gt 2 ]; then
+  echo 1>&2 "$0: too many arguments"
+  exit 2
+fi
 
-rm -rf topic_models/profiles/profiles_adj/*
-rm -rf topic_models/profiles/profiles_loc/*
-rm -rf topic_models/profiles/profiles_noun/*
-rm -rf topic_models/profiles/profiles_org/*
-rm -rf topic_models/profiles/profiles_per/*
-rm -rf topic_models/profiles/profiles_verb/*
-rm -rf topic_models/profiles/profiles_propn/*
+#Modify according to your dataset
+prefixes=("propn" "verb" "org" "loc" "per" "adj" "noun")
 
-sh hlta-es.sh profiles/profiles_propn 4 topic_models/profiles/profiles_propn 400
-sh hlta-es.sh profiles/profiles_adj 4 topic_models/profiles/profiles_adj 200
-sh hlta-es.sh profiles/profiles_loc 4 topic_models/profiles/profiles_loc 300
-sh hlta-es.sh profiles/profiles_noun 4 topic_models/profiles/profiles_noun 200
-sh hlta-es.sh profiles/profiles_org 4 topic_models/profiles/profiles_org 300
-sh hlta-es.sh profiles/profiles_per 4 topic_models/profiles/profiles_per 300
-sh hlta-es.sh profiles/profiles_verb 4 topic_models/profiles/profiles_verb 400
+#Modify according how important is each hierarchy for you
 
-rm ../fusion/profiles/profiles_propn/*
-rm ../fusion/profiles/profiles_adj/*
-rm ../fusion/profiles/profiles_loc/*
-rm ../fusion/profiles/profiles_noun/*
-rm ../fusion/profiles/profiles_org/*
-rm ../fusion/profiles/profiles_per/*
-rm ../fusion/profiles/profiles_verb/*
+#for the silla vacia
+#words_per_type = (400 400 300 300 300 200 200)
 
-cp topic_models/profiles/profiles_propn/myAssignment.topics.json ../fusion/profiles/profiles_propn/
-cp topic_models/profiles/profiles_adj/myAssignment.topics.json ../fusion/profiles/profiles_adj/
-cp topic_models/profiles/profiles_loc/myAssignment.topics.json ../fusion/profiles/profiles_loc/
-cp topic_models/profiles/profiles_noun/myAssignment.topics.json ../fusion/profiles/profiles_noun/
-cp topic_models/profiles/profiles_org/myAssignment.topics.json ../fusion/profiles/profiles_org/
-cp topic_models/profiles/profiles_per/myAssignment.topics.json ../fusion/profiles/profiles_per/
-cp topic_models/profiles/profiles_verb/myAssignment.topics.json ../fusion/profiles/profiles_verb/
+#for the abstracts
+words_per_type=(500 500 200 200 200 300 200)
 
-cp topic_models/profiles/profiles_propn/myData.dict.csv ../fusion/profiles/profiles_propn/
-cp topic_models/profiles/profiles_adj/myData.dict.csv ../fusion/profiles/profiles_adj/
-cp topic_models/profiles/profiles_loc/myData.dict.csv ../fusion/profiles/profiles_loc/
-cp topic_models/profiles/profiles_noun/myData.dict.csv ../fusion/profiles/profiles_noun/
-cp topic_models/profiles/profiles_org/myData.dict.csv ../fusion/profiles/profiles_org/
-cp topic_models/profiles/profiles_per/myData.dict.csv ../fusion/profiles/profiles_per/
-cp topic_models/profiles/profiles_verb/myData.dict.csv ../fusion/profiles/profiles_verb/
+for i in ${prefixes[@]}; do
+  mkdir -p topic_models/"$1"/"$1"_$i
+  rm -rf topic_models/"$1"/"$1"_$i/*
+done
 
-cp topic_models/profiles/profiles_propn/myData.files.txt ../fusion/profiles/profiles_propn/
-cp topic_models/profiles/profiles_adj/myData.files.txt ../fusion/profiles/profiles_adj/
-cp topic_models/profiles/profiles_loc/myData.files.txt ../fusion/profiles/profiles_loc/
-cp topic_models/profiles/profiles_noun/myData.files.txt ../fusion/profiles/profiles_noun/
-cp topic_models/profiles/profiles_org/myData.files.txt ../fusion/profiles/profiles_org/
-cp topic_models/profiles/profiles_per/myData.files.txt ../fusion/profiles/profiles_per/
-cp topic_models/profiles/profiles_verb/myData.files.txt ../fusion/profiles/profiles_verb/
+for i in ${!prefixes[@]}; do
+  sh hlta-es.sh "$1"/"$1"_${prefixes[$i]} "$2" topic_models/"$1"/"$1"_${prefixes[$i]} ${words_per_type[$i]}
+done
 
-cp topic_models/profiles/profiles_propn/topicTree.nodes.json ../fusion/profiles/profiles_propn/
-cp topic_models/profiles/profiles_adj/topicTree.nodes.json ../fusion/profiles/profiles_adj/
-cp topic_models/profiles/profiles_loc/topicTree.nodes.json ../fusion/profiles/profiles_loc/
-cp topic_models/profiles/profiles_noun/topicTree.nodes.json ../fusion/profiles/profiles_noun/
-cp topic_models/profiles/profiles_org/topicTree.nodes.json ../fusion/profiles/profiles_org/
-cp topic_models/profiles/profiles_per/topicTree.nodes.json ../fusion/profiles/profiles_per/
-cp topic_models/profiles/profiles_verb/topicTree.nodes.json ../fusion/profiles/profiles_verb/
+mkdir -p ../fusion/"$1"/evaluation
+touch ../fusion/"$1"/evaluation/myData.sparse.txt
+
+for i in ${prefixes[@]}; do
+  mkdir -p ../fusion/"$1"/"$1"_$i
+  rm -rf ../fusion/"$1"/"$1"_$i/*
+  cp topic_models/"$1"/"$1"_$i/myAssignment.topics.json ../fusion/"$1"/"$1"_$i/
+  cp topic_models/"$1"/"$1"_$i/myData.dict.csv ../fusion/"$1"/"$1"_$i/
+  cp topic_models/"$1"/"$1"_$i/myData.files.txt ../fusion/"$1"/"$1"_$i/
+  cp topic_models/"$1"/"$1"_$i/topicTree.nodes.json ../fusion/"$1"/"$1"_$i/
+  cat topic_models/"$1"/"$1"_$i/myData.sparse.txt >> ../fusion/"$1"/evaluation/myData.sparse.txt
+done
+
+sort -u ../fusion/"$1"/evaluation/myData.sparse.txt | sort -g -o ../fusion/"$1"/evaluation/myData.sparse.txt

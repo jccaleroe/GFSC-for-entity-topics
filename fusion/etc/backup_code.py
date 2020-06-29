@@ -74,3 +74,18 @@ def decode_files_view(folder, nodes_id, view_id):
 
 get_views_by_level()
 
+def hlta_dfs(node):
+    entry = {'id': node, 'text': ' '.join(node_words[node])}
+    children = []
+    for child in node_children[node]:
+        children.append(hlta_dfs(child))
+    entry['children'] = children
+    return entry
+
+def export_as_hlta_format(name):
+    hlta = []
+    for node in node_parent:
+        if len(node_parent[node]) == 1 and node_parent[node][0] == 'ROOT':
+            hlta.append(hlta_dfs(node))
+    with open(name, 'w') as f:
+        json.dump(hlta, f, indent=2)
