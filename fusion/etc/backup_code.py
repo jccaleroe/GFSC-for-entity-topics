@@ -89,3 +89,28 @@ def export_as_hlta_format(name):
             hlta.append(hlta_dfs(node))
     with open(name, 'w') as f:
         json.dump(hlta, f, indent=2)
+
+html = []
+def html_dfs(node):
+    words = node + ': ' + ' '.join(node_words[node])
+    if len(node_children[node]) == 0:
+        html.append('<li>' + words + '</li>')
+    else:
+        html.append('<li>' + words + '<ul>')
+        for child in node_children[node]:
+            html_dfs(child)
+        html.append('</ul></li>')
+
+def create_topics_html_lists(name):
+    global html
+    cnt = 0
+    for node in node_parent:
+        if len(node_parent[node]) == 1 and node_parent[node][0] == 'ROOT':
+            cnt += 1
+            html_dfs(node)
+    with open('graphs/html/' + name + '.html', 'w') as f:
+        f.write('\n'.join(html))
+    html = []
+    print(cnt, "trees created")
+
+create_topics_html_lists('abstracts_150')
