@@ -1,15 +1,14 @@
-import os
-
 import spacy
 
-nlp = spacy.load("es_core_news_md")
+# nlp = spacy.load("en_core_web_lg")
+nlp = spacy.load("es_core_news_lg")
 print('spaCy loaded')
 
-with open("profiles/adriana-cordoba.txt") as f:
+with open("/home/juan/Downloads/profiles/Adriana  Córdoba") as f:
     doc = nlp(f.read())
 
 for i in doc.ents:
     print(i.label_ + "\t" + i.text)
 
-# for token in doc:
-#     print(token.pos_ + "\t" + token.lemma_)
+for token in doc:
+    print(token.pos_ + "\t" + token.lemma_)
