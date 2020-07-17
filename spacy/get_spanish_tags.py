@@ -1,13 +1,12 @@
 import os
 
 import spacy
+import unidecode
 
 dataset = "/home/juan/Downloads/profiles/"
-target = "/home/juan/Downloads/profiles_nlp/"
+target = "/home/juan/adeline/artemis/hlta/datasets/profiles/"
 
 os.makedirs(target + "verb/", exist_ok=True)
-os.makedirs(target + "propn/", exist_ok=True)
-os.makedirs(target + "noun/", exist_ok=True)
 os.makedirs(target + "adj/", exist_ok=True)
 os.makedirs(target + "per/", exist_ok=True)
 os.makedirs(target + "loc/", exist_ok=True)
@@ -22,8 +21,6 @@ for filename in os.listdir(dataset):
     print("processing " + filename)
 
     verb = open(target + "verb/" + filename, 'w')
-    propn = open(target + "propn/" + filename, 'w')
-    noun = open(target + "noun/" + filename, 'w')
     adj = open(target + "adj/" + filename, 'w')
     per = open(target + "per/" + filename, 'w')
     loc = open(target + "loc/" + filename, 'w')
@@ -31,26 +28,20 @@ for filename in os.listdir(dataset):
 
     for token in doc:
         if token.pos_ == 'VERB':
-            verb.write(token.lemma_ + '\n')
-        elif token.pos_ == 'INTJ':
-            propn.write(token.lemma_ + '\n')
-        elif token.pos_ == 'NOUN':
-            noun.write(token.lemma_ + '\n')
+            verb.write(unidecode.unidecode(token.lemma_.strip()).replace(' ', 'zzz') + '\n')
         elif token.pos_ == 'ADJ':
-            adj.write(token.lemma_ + '\n')
+            adj.write(unidecode.unidecode(token.lemma_.strip()).replace(' ', 'zzz') + '\n')
 
     for i in doc.ents:
         if i.label_ == 'ORG':
-            org.write(i.text + '\n')
+            org.write(unidecode.unidecode(i.text.strip()).replace(' ', 'zzz') + '\n')
         elif i.label_ == 'LOC':
-            loc.write(i.text + '\n')
+            loc.write(unidecode.unidecode(i.text.strip()).replace(' ', 'zzz') + '\n')
         elif i.label_ == 'PER':
-            per.write(i.text + '\n')
+            per.write(unidecode.unidecode(i.text.strip()).replace(' ', 'zzz') + '\n')
 
     verb.close()
-    propn.close()
     adj.close()
-    noun.close()
     per.close()
     loc.close()
     org.close()

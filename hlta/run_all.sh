@@ -1,25 +1,25 @@
 #!/bin/bash
 
-#First parameter, dataset folder, for the moment must be in this folder and with sub folders specified in the list
-#prefixes with the structure folder_prefix
-#Second parameter, number of cores to be used
-#You can modify this script and hlta.sh and hlta-es.sh scripts to specify more parameters
+#the dataset folder mus have sub folders specified in the list prefixes
+#You can modify this script and hlta-es.sh scripts to specify more parameters
 
-if [ $# -lt 3 ]; then
-  echo 1>&2 "$0: not enough arguments"
+if [ $# -lt 2 ]; then
+  echo 1>&2 "usage: source_dir target_dir"
   exit 2
-elif [ $# -gt 3 ]; then
-  echo 1>&2 "$0: too many arguments"
+elif [ $# -gt 2 ]; then
+  echo 1>&2 "usage: source_dir target_dir"
   exit 2
 fi
 
 #Modify according to your dataset
-prefixes=("propn" "verb" "org" "loc" "per" "adj" "noun")
+prefixes=("verb" "org" "loc" "per" "adj")
+#prefixes=("verb")
 
 #Modify according how important is each hierarchy for you
 
 #for the silla vacia
-words_per_type=(600 500 400 400 400 300 200)
+words_per_type=(1000 800 800 800 400)
+#words_per_type=(1000)
 
 #for the abstracts
 #words_per_type=(600 500 200 200 200 300 200)
@@ -30,7 +30,7 @@ for i in ${prefixes[@]}; do
 done
 
 for i in ${!prefixes[@]}; do
-  sh hlta-es.sh "$1"/${prefixes[$i]} "$3" topic_models/"$2"/${prefixes[$i]} ${words_per_type[$i]}
+  sh hlta-es.sh "$1"/${prefixes[$i]} topic_models/"$2"/${prefixes[$i]} ${words_per_type[$i]} 0 4 4
 done
 
 mkdir -p ../fusion/"$2"/evaluation
