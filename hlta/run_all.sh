@@ -33,18 +33,18 @@ for i in ${!prefixes[@]}; do
   sh hlta-es.sh "$1"/${prefixes[$i]} topic_models/"$2"/${prefixes[$i]} ${words_per_type[$i]} 0 4 4
 done
 
-mkdir -p ../fusion/"$2"/evaluation
-touch ../fusion/"$2"/evaluation/myData.sparse.txt
+#mkdir -p ../fusion/"$2"/evaluation
+rm -rf ../fusion/"$2"/*
+touch ../fusion/"$2"/myData.sparse.txt
 
 for i in ${prefixes[@]}; do
   mkdir -p ../fusion/"$2"/$i
-  rm -rf ../fusion/"$2"/$i/*
   cp topic_models/"$2"/$i/myAssignment.topics.json ../fusion/"$2"/$i/
   cp topic_models/"$2"/$i/myData.dict.csv ../fusion/"$2"/$i/
   cp topic_models/"$2"/$i/myData.files.txt ../fusion/"$2"/$i/
   cp topic_models/"$2"/$i/topicTree.nodes.json ../fusion/"$2"/$i/
   cp topic_models/"$2"/$i/myModel.bif ../fusion/"$2"/$i/
-  cat topic_models/"$2"/$i/myData.sparse.txt >> ../fusion/"$2"/evaluation/myData.sparse.txt
+  cat topic_models/"$2"/$i/myData.sparse.txt >> ../fusion/"$2"/myData.sparse.txt
 done
 
-sort -u ../fusion/"$2"/evaluation/myData.sparse.txt | sort -g -o ../fusion/"$2"/evaluation/myData.sparse.txt
+sort -u ../fusion/"$2"/myData.sparse.txt | sort -g -o ../fusion/"$2"/myData.sparse.txt
