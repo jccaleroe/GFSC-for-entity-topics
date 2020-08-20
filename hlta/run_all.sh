@@ -31,8 +31,8 @@ for i in "${!prefixes[@]}"; do
   sh hlta-es.sh "$1"/"${prefixes[$i]}" topic_models/"$2"/"${prefixes[$i]}" "${words_per_type[$i]}" 0 4 4
 done
 
-#mkdir -p ../fusion/"$2"/evaluation
 rm -rf ../fusion/"$2"/*
+mkdir -p ../fusion/"$2"/evaluation
 touch ../fusion/"$2"/myData.sparse.txt
 
 for i in "${prefixes[@]}"; do
