@@ -18,4 +18,4 @@ fusion/graphs/d3/templates
 fusion/graphs/html
 fusion/graphs/gephi/
 fusion/graphs/d3/*.json
-
+**/organisms*/
