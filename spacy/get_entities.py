@@ -30,7 +30,7 @@ types = set(prefixes.values())
 for i in types:
     os.makedirs(target + i, exist_ok=True)
 
-cnt = 1
+cnt = 0
 for filename in os.listdir(dataset):
     with open(os.path.join(dataset, filename), 'r') as f:
         doc = nlp(f.read())

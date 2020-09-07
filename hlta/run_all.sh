@@ -12,10 +12,10 @@ elif [ $# -gt 2 ]; then
 fi
 
 #profiles
-declare -A map=(["VERB"]=1000 ["ORG"]=800 ["LOC"]=800 ["PER"]=800 ["NOUN"]=600 ["ADJ"]=400)
+#declare -A map=(["VERB"]=1000 ["ORG"]=800 ["LOC"]=800 ["PER"]=800 ["NOUN"]=600 ["ADJ"]=400)
 
 #Organisms
-#declare -A map=(["PERSON"]=600 ["ORG"]=800 ["LOC"]=2000 ["OBJ"]=800 ["EVENT"]=1400 ["VERB"]=1000 ["ADJ"]=400 ["NOUN"]=3000)
+declare -A map=(["PERSON"]=600 ["ORG"]=800 ["LOC"]=2000 ["OBJ"]=800 ["EVENT"]=1400 ["VERB"]=1000 ["ADJ"]=400 ["NOUN"]=3000)
 
 for key in "${!map[@]}"; do
   mkdir -p topic_models/"$2"/"$key"
@@ -38,3 +38,4 @@ for i in "${!map[@]}"; do
 done
 
 sort -u ../fusion/"$2"/myData.sparse.txt | sort -g -o ../fusion/"$2"/myData.sparse.txt
+
