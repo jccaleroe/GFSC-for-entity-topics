@@ -14,5 +14,7 @@ java -Xms2G -Xmx8G -cp HLTA-es.jar:HLTA-deps.jar tm.hlta.Doc2VecAssignment "$2"/
 echo "Topic coherence:" > "$2"/evaluation
 java -Xms2G -Xmx8G -cp HLTA-es.jar:HLTA-deps.jar tm.hlta.TopicCoherence "$2"/topicTree.nodes.json "$2"/myData.sparse.txt >> "$2"/evaluation
 echo "Topic compactness:" >> "$2"/evaluation
-java -Xmx8G -cp HLTA-es.jar:HLTA-deps.jar tm.hlta.TopicCompactness "$2"/topicTree.nodes.json GoogleNews-vectors-negative300.bin >> "$2"/evaluation
+sed -r 's/xyz/_/g' "$2"/topicTree.nodes.json > "$2"/topicTree.nodes.json.bak
+java -Xmx8G -cp HLTA-es.jar:HLTA-deps.jar tm.hlta.TopicCompactness "$2"/topicTree.nodes.json.bak GoogleNews-vectors-negative300.bin >> "$2"/evaluation
+rm "$2"/topicTree.nodes.json.bak
 

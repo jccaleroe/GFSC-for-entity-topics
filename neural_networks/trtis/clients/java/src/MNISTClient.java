@@ -1,5 +1,3 @@
-package co.mil.imi.hydra;
-
 import com.google.protobuf.ByteString;
 import io.grpc.ManagedChannel;
 import io.grpc.ManagedChannelBuilder;

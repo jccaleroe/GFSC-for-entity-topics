@@ -1,8 +1,8 @@
 #!/bin/bash
 
-dataset="/home/juan/Downloads/new_life/"
-root="/home/juan/Videos/organisms/"
-n=74011
+dataset="/home/juan/Documents/datasets/thesis/"
+root="/home/juan/Documents/datasets/thesis_split/"
+n=3400
 folder=1
 cnt=0
 
@@ -19,3 +19,4 @@ for filename in "$dataset"*; do
   mv "$filename" "$target"
   ((cnt+=1))
 done
+
