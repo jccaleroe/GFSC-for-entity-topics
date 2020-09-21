@@ -42,7 +42,7 @@ for filename in os.listdir(dataset):
         with open(os.path.join(dataset, filename), 'r') as f:
             s = f.read()
     s = '' if s is None else s.strip()
-    if len(s) == 0 or len(s) > 1000000:
+    if len(s) <= 40 or len(s) > 1000000:
         continue
     try:
         if detect(s) != lang:
