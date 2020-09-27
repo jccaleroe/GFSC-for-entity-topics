@@ -42,4 +42,4 @@ def plot_histograms(histograms):
     plt.show()
 
 
-plot_histograms(create_histograms("clusters/organisms/"))
+plot_histograms(create_histograms("clusters/thesis/"))

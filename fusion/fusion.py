@@ -1,3 +1,4 @@
+import argparse
 import os
 
 import numpy as np
@@ -57,31 +58,6 @@ def run_clustering(k, x):
     return SpectralClustering(n_clusters=k, affinity='precomputed', assign_labels='discretize').fit(x).labels_
 
 
-# def run_experiments(ks, views):
-#     x = load_data(views)
-#     print(x.shape)
-#     steps, alphas, betas, gammas = 20, [0.1, 1.0], [1000.0, 4000.0, 100.0], [0.01, 0.1]
-#     # steps, alphas, betas, gammas = 20, [0.1], [4000.0], [0.01]
-#     biggest, smallest = {}, {}
-#     for k in ks:
-#         for alpha in alphas:
-#             for beta in betas:
-#                 for gamma in gammas:
-#                     s = fusion(x, k, steps, alpha, beta, gamma)
-#                     (labels, big, small, d) = run_clustering(k, s)
-#                     is_better = False
-#                     if k in biggest:
-#                         if big < biggest[k] or (big == biggest[k] and small > smallest[k]):
-#                             is_better = True
-#                     else:
-#                         is_better = True
-#                     if is_better:
-#                         biggest[k] = big
-#                         smallest[k] = small
-#                         histograms[k] = [d, 'k: ' + str(k) + ', Biggest: ' + str(big) + ', Smallest: ' + str(small) +
-#                                          ', params: ' + ' '.join([str(alpha), str(beta), str(gamma)])]
-
-
 def save_np(folder, name, matrix):
     os.makedirs(folder, exist_ok=True)
     with open(os.path.join(folder, name) + ".npy", 'wb') as f:
@@ -97,11 +73,18 @@ def run(views):
     return k, s
 
 
-def run_by_levels(views, results):
+def run_by_levels(views, clusters_folder):
     for level in next(os.walk(views))[1]:
         (k, s) = run(os.path.join(views, level))
         labels = run_clustering(k, s)
-        save_np(os.path.join(results, level), 'labels', labels)
+        save_np(os.path.join(clusters_folder, level), 'labels', labels)
 
 
-run_by_levels('views/organisms/', 'clusters/organisms/')
+parser = argparse.ArgumentParser(description='GFSC tensorflow and scikit-learn implementation which reads separately '
+                                             'the numpy vectors stored on the path specified level-1 sub-folders '
+                                             'and returns the clustering labels per sub-folder')
+parser.add_argument('views_folder', type=str, help='Folder with the topic model views')
+parser.add_argument('clusters_folder', type=str, help='Folder to save the topic clustering labels')
+args = parser.parse_args()
+
+run_by_levels(args.views_folder, args.clusters_folder)
