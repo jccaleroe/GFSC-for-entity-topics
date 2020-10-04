@@ -13,7 +13,7 @@
 **/HLTA.jar
 *.npy
 fusion/graphs/d3/templates
-fusion/graphs/html
+**.html
 fusion/graphs/gephi/
 fusion/graphs/d3/*.json
 

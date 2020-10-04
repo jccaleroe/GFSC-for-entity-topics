@@ -77,6 +77,7 @@ def load_words(name):
                         tf_idf[tfidf[0]] += float(tfidf[3])
     for word in repeated:
         tf_idf[word] /= repeated[word]
+    print(len(words_dic), ' unique words')
     print(len(repeated), 'repeated words')
 
 

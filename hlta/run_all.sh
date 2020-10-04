@@ -20,6 +20,9 @@ declare -A map=(["VERB"]=600 ["ORG"]=500 ["LOC"]=500 ["PER"]=400 ["NOUN"]=700 ["
 #Organisms
 #declare -A map=(["PERSON"]=600 ["ORG"]=800 ["LOC"]=2000 ["OBJ"]=800 ["EVENT"]=1400 ["VERB"]=1000 ["ADJ"]=400 ["NOUN"]=3000)
 
+#thesis
+#declare -A map=(["VERB"]=1000 ["ORG"]=1000 ["LOC"]=1000 ["PER"]=300 ["NOUN"]=2000 ["ADJ"]=400)
+
 for key in "${!map[@]}"; do
   mkdir -p topic_models/"$2"/"$key"
   rm -rf topic_models/"$2"/"$key"/*

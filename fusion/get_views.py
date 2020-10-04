@@ -54,9 +54,9 @@ def get_tfidf_view(path, level):
 
 
 def get_views(name):
-    folder = os.path.join(name, '/level_')
+    folder = os.path.join(name, 'level_')
     for level in nodes_per_level:
-        path = folder + str(level) + '/'
+        path = folder + str(level)
         os.makedirs(path, exist_ok=True)
         print('Getting level', level, 'views')
         get_files_view(path, level)

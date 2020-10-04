@@ -109,6 +109,36 @@ def export_nodes_json(name):
         json.dump(graph, f, indent=2)
 
 
+def html_dfs(node):
+    words = node if node.startswith('U') else node[:node.index('Z')]
+    words = words + ': ' + ' '.join(node_words[node]).replace('xyz', '_')
+    if len(node_children[node]) == 0:
+        html.append('<li>' + words + '</li>')
+    else:
+        html.append('<li>' + words + '<ul>')
+        for child in node_children[node]:
+            html_dfs(child)
+        html.append('</ul></li>')
+
+
+def create_topics_html_lists(name):
+    cnt = 0
+    html.append('<style>.collapsibleList li {cursor: auto; margin: 8px 0;} li.collapsibleListOpen {cursor: pointer}')
+    html.append('li.collapsibleListClosed {cursor: pointer}</style><script src="CollapsibleLists.js"></script>')
+    html.append('<body onload="CollapsibleLists.apply();">')
+    html.append('<ul class="collapsibleList">')
+    for node in node_parent:
+        if 'ROOT' in node_parent[node]:
+            cnt += 1
+            html_dfs(node)
+            html.append('<br>')
+    html.append('</ul></body>')
+    os.makedirs('graphs/html', exist_ok=True)
+    with open(os.path.join('graphs/html', name + '.html'), 'w') as f:
+        f.write('\n'.join(html))
+    print(cnt, "trees created")
+
+
 def create_topics_d3(name, expanded):
     graph = {"nodes": {}, "links": []}
     if len(node_group) == 0:
@@ -164,7 +194,6 @@ def create_topics_gephi(name):
             graph.append('source ' + str(nodes[node]))
             graph.append('target ' + str(nodes[child]) + ' ]')
     graph.append(']')
-    import os
     os.makedirs('graphs/gephi/', exist_ok=True)
     with open(os.path.join('graphs/gephi', name + '.gml'), 'w') as f:
         f.write('\n'.join(graph))
@@ -181,11 +210,14 @@ parser.add_argument('--plain_nodes_name', type=str,
                     help='Process views and export nodes in json format without hierarchy into {dataset}/evaluation/{name}')
 parser.add_argument('--d3_name', type=str,
                     help='Process views and export as json compatible with custom d3 visualizer into graphs/d3/{d3_name}')
+parser.add_argument('--html_name', type=str,
+                    help='Process views and export as HTML lists into graphs/html/{html_name}')
 parser.add_argument('--omit_fusion', action='store_true', help='Join all topics in single json without fusion')
 args = parser.parse_args()
 
-if args.plain_nodes_name is None and args.gephi_name is None and args.d3_name is None:
+if args.plain_nodes_name is None and args.gephi_name is None and args.d3_name is None and args.html_name is None:
     from sys import exit
+
     print('Must specify al least one action')
     exit(2)
 
@@ -207,3 +239,6 @@ if args.gephi_name is not None:
     create_topics_gephi(args.gephi_name)
 if args.d3_name is not None:
     create_topics_d3(args.d3_name, False)
+if args.html_name is not None:
+    html = []
+    create_topics_html_lists(args.html_name)

@@ -1,45 +1,45 @@
+import argparse
 import os
-import sys
 
 import spacy
 import unidecode
 from langdetect import detect
-from tika import parser
+from tika import parser as tp
 
-if len(sys.argv) != 5:
-    print('Usage: dataset, target, is_english, use_tika')
-    exit(1)
-
-dataset = sys.argv[1]
-target = sys.argv[2]
-is_english = sys.argv[3] == "True"
-use_tika = sys.argv[4] == "True"
+parser = argparse.ArgumentParser(
+    description='Extract some named entities and some parts of speech from a corpus of document. Returns a folder per '
+                'entity with only the recognized words per document. If all the files are plain text, omit the option '
+                '--use_tika')
+parser.add_argument('dataset', type=str, help='Folder with the corpus')
+parser.add_argument('target', type=str, help='Folder to save entities')
+parser.add_argument('--use_spanish', action='store_true', help='Use Spanish entities')
+parser.add_argument('--use_tika', action='store_true', help='Use Spanish entities')
+args = parser.parse_args()
 
 print('loading spaCy')
-
-if is_english:
+if args.use_spanish:
+    prefixes = {"VERB": "VERB", "ADJ": "ADJ", "PER": "PER", "LOC": "LOC", "ORG": "ORG", "NOUN": "NOUN"}
+    nlp = spacy.load("es_core_news_lg")
+    lang = 'es'
+else:
     prefixes = {"PERSON": "PERSON", "NORP": "ORG", "ORG": "ORG", "LOC": "LOC", "FAC": "LOC", "GPE": "LOC",
                 "PRODUCT": "OBJ",
                 "WORK_OF_ART": "OBJ", "LAW": "OBJ", "EVENT": "EVENT", "VERB": "VERB", "ADJ": "ADJ", "NOUN": "NOUN"}
     nlp = spacy.load("en_core_web_lg")
     lang = 'en'
-else:
-    prefixes = {"VERB": "VERB", "ADJ": "ADJ", "PER": "PER", "LOC": "LOC", "ORG": "ORG", "NOUN": "NOUN"}
-    nlp = spacy.load("es_core_news_lg")
-    lang = 'es'
 
 print('spaCy loaded')
 
 types = set(prefixes.values())
-for i in types:
-    os.makedirs(target + i, exist_ok=True)
+for folder in types:
+    os.makedirs(os.path.join(args.target, folder), exist_ok=True)
 
 cnt = 0
-for filename in os.listdir(dataset):
-    if use_tika:
-        s = parser.from_file(os.path.join(dataset, filename), requestOptions={'timeout': 300})['content']
+for filename in os.listdir(args.dataset):
+    if args.use_tika:
+        s = tp.from_file(os.path.join(args.dataset, filename), requestOptions={'timeout': 300})['content']
     else:
-        with open(os.path.join(dataset, filename), 'r') as f:
+        with open(os.path.join(args.dataset, filename), 'r') as f:
             s = f.read()
     s = '' if s is None else s.strip()
     if len(s) <= 40 or len(s) > 1000000:
@@ -53,8 +53,8 @@ for filename in os.listdir(dataset):
     cnt += 1
 
     writers = {}
-    for i in types:
-        writers[i] = open(target + i + '/' + filename + '.txt', 'w')
+    for folder in types:
+        writers[folder] = open(os.path.join(args.target, folder, filename + '.txt'), 'w')
 
     for token in doc:
         if token.pos_ in prefixes:
@@ -68,4 +68,3 @@ for filename in os.listdir(dataset):
         writer.close()
 
 print(cnt, 'files processed')
-
