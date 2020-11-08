@@ -49,7 +49,7 @@ def get_tfidf_view(path, level):
         for doc in assignments[node]:
             for word in sparse[doc]:
                 if word in tf_idf:
-                    view_tfidf[node_id][words_dic[word]] = tf_idf[word] * assignments[node][doc]
+                    view_tfidf[node_id][words_dic[word]] = max(view_tfidf[node_id][words_dic[word]], tf_idf[word] * assignments[node][doc])
     save_np(path, view_tfidf, 'tfidf')
 
 

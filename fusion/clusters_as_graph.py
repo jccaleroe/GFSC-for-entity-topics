@@ -13,13 +13,16 @@ from embedding import nodes
 
 
 def read_results(name):
-    with open(name, 'rb') as f:
-        return np.load(f)
+    if os.path.isfile(name):
+        with open(name, 'rb') as f:
+            return np.load(f)
+    else:
+        return []
 
 
-def run_by_levels(clusters, name):
+def run_by_levels(clusters, name, omit_fusion):
     for level in next(os.walk(clusters))[1]:
-        process_clusters(read_results(os.path.join(clusters, level, name)), int(level[-1]))
+        process_clusters(read_results(os.path.join(clusters, level, name)), int(level[-1]), omit_fusion)
         print(len(nodes), 'nodes after fusion')
 
 
@@ -83,7 +86,7 @@ def create_node(u_name, cluster, c_id, level):
         i += 1
 
 
-def process_clusters(labels, level):
+def process_clusters(labels, level, omit_fusion):
     print('processing level', level)
     clusters = {}
     for i in range(len(labels)):
@@ -93,11 +96,15 @@ def process_clusters(labels, level):
             clusters[labels[i]] = [i]
     cnt = 0
     for c_id in clusters:
-        if len(clusters[c_id]) == 1:
-            node_group[id2node[level][clusters[c_id][0]]] = c_id
-            continue
-        create_node('U_' + str(level) + '_' + str(cnt), clusters[c_id], c_id, level)
-        cnt += 1
+        if omit_fusion:
+            for node_id in clusters[c_id]:
+                node_group[id2node[level][node_id]] = c_id
+        else:
+            if len(clusters[c_id]) == 1:
+                node_group[id2node[level][clusters[c_id][0]]] = c_id
+                continue
+            create_node('U_' + str(level) + '_' + str(cnt), clusters[c_id], c_id, level)
+            cnt += 1
 
 
 def export_nodes_json(name):
@@ -230,8 +237,7 @@ node_group = {}
 embedding.load_nodes(args.dataset)
 embedding.load_words(args.dataset)
 
-if not args.omit_fusion:
-    run_by_levels(args.clusters_folder, 'labels.npy')
+run_by_levels(args.clusters_folder, 'labels.npy', args.omit_fusion)
 if args.plain_nodes_name is not None:
     os.makedirs(os.path.join(args.dataset, 'evaluation'), exist_ok=True)
     export_nodes_json(os.path.join(args.dataset, 'evaluation', args.plain_nodes_name))

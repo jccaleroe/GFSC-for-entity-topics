@@ -29,7 +29,7 @@ def create_histograms(path):
 
 
 def plot_histograms(histograms):
-    plt.style.use('dark_background')
+    # plt.style.use('dark_background')
     plt.figure(figsize=(20, 30))
     plt.subplots_adjust(hspace=0.4)
     cnt = 1
@@ -38,8 +38,8 @@ def plot_histograms(histograms):
         cnt += 1
         d = histograms[h][0]
         plt.bar(d.keys(), d.values())
-        plt.title(histograms[h][1])
+        plt.title(histograms[h][1], fontsize=30)
     plt.show()
 
 
-plot_histograms(create_histograms("clusters/thesis/"))
+plot_histograms(create_histograms("clusters/organisms/"))
