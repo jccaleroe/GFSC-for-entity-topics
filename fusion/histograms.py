@@ -2,6 +2,7 @@ import os
 
 import matplotlib.pyplot as plt
 import numpy as np
+from sklearn import metrics
 
 
 def read_results(name):
@@ -9,10 +10,25 @@ def read_results(name):
         return np.load(f)
 
 
-def create_histograms(path):
+def load_views(views_folder, level):
+    views = {level: {}}
+    for filename in os.listdir(os.path.join(views_folder, level)):
+        with open(os.path.join(views_folder, level, filename), 'rb') as f:
+            views[level][filename] = np.load(f)
+    return views
+
+
+def create_histograms(path, views_folder):
     histograms = {}
     for level in next(os.walk(path))[1]:
-        labels = read_results(path + level + '/' + 'labels.npy')
+        labels = read_results(os.path.join(path, level, 'labels.npy'))
+        # graph = read_results(os.path.join(path, level, 'graph.npy'))
+        views = load_views(views_folder, level)
+        print(level)
+        for view in views[level]:
+            print('Silhouette', view, round(metrics.silhouette_score(views[level][view], labels, metric='euclidean'), 4))
+            print('Calinski-Harabasz', view, round(metrics.calinski_harabasz_score(views[level][view], labels), 4))
+            print('Davies-Bouldin', view, round(metrics.davies_bouldin_score(views[level][view], labels), 4))
         d = {}
         for i in labels:
             if i in d:
@@ -42,4 +58,4 @@ def plot_histograms(histograms):
     plt.show()
 
 
-plot_histograms(create_histograms("clusters/organisms/"))
+plot_histograms(create_histograms("clusters/single_view/organisms/tfidf", 'views/organisms/tfidf'))

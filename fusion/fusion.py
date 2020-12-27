@@ -78,6 +78,7 @@ def run_by_levels(views, clusters_folder):
         (k, s) = run(os.path.join(views, level))
         labels = run_clustering(k, s)
         save_np(os.path.join(clusters_folder, level), 'labels', labels)
+        save_np(os.path.join(clusters_folder, level), 'graph', s)
 
 
 parser = argparse.ArgumentParser(description='GFSC tensorflow and scikit-learn implementation which reads separately '

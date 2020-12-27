@@ -1,0 +1,419 @@
+Abstracts
+Level 1
+All views Silhouette
+Silhouette tfidf.npy -0.18951776453446934
+Silhouette files.npy -0.24188342648282973
+Silhouette bayes.npy -0.07733383360550193
+
+All views Calinski-Harabasz
+Calinski-Harabasz tfidf.npy 8.845905424595319
+Calinski-Harabasz files.npy 2.7194791689280784
+Calinski-Harabasz bayes.npy 0.9828455170180243
+
+All views Davies-Bouldin
+Davies-Bouldin tfidf.npy 5.60946422232218
+Davies-Bouldin files.npy 3.788116653176463
+Davies-Bouldin bayes.npy 5.225170869106299
+
+TI-IDF view
+Silhouette tfidf.npy 0.08789891431434059
+Calinski-Harabasz tfidf.npy 13.652127059782426
+Davies-Bouldin tfidf.npy 2.730705093213854
+
+Files view
+Silhouette files.npy 0.02610827011291033
+Calinski-Harabasz files.npy 3.451672753153044
+Davies-Bouldin files.npy 2.8471385940920593
+
+Bayes view
+Silhouette bayes.npy -0.0251
+Calinski-Harabasz bayes.npy 1.4146
+Davies-Bouldin bayes.npy 2.6778
+
+Concatenated view
+Silhouette concatenated.npy 0.0873
+Calinski-Harabasz concatenated.npy 13.6702
+Davies-Bouldin concatenated.npy 2.6908
+
+Concatenated view - multi-view labels
+Silhouette concatenated.npy -0.1895
+Calinski-Harabasz concatenated.npy 8.8459
+Davies-Bouldin concatenated.npy 5.6094
+
+Level 2
+All views Silhouette
+Silhouette tfidf.npy -0.18327121969058993
+Silhouette files.npy -0.19457227070941022
+Silhouette bayes.npy -0.1023745776910093
+
+All views Calinski-Harabasz
+Calinski-Harabasz tfidf.npy 4.671614505770249
+Calinski-Harabasz files.npy 3.5065578167102673
+Calinski-Harabasz bayes.npy 0.8710385249421023
+
+All views Davies-Bouldin
+Davies-Bouldin tfidf.npy 3.702561330774136
+Davies-Bouldin files.npy 3.4733836464699603
+Davies-Bouldin bayes.npy 4.980268508478675
+
+TI-IDF view
+Silhouette tfidf.npy 0.07430765767553393
+Calinski-Harabasz tfidf.npy 6.877731137032199
+Davies-Bouldin tfidf.npy 2.7050408018598766
+
+Files view
+Silhouette files.npy 0.1993515275438702
+Calinski-Harabasz files.npy 3.606950989747989
+Davies-Bouldin files.npy 2.7845198918631144
+
+Bayes view
+Silhouette bayes.npy -0.0536
+Calinski-Harabasz bayes.npy 1.1419
+Davies-Bouldin bayes.npy 4.2726
+
+Concatenated view
+Silhouette concatenated.npy 0.1251
+Calinski-Harabasz concatenated.npy 8.0332
+Davies-Bouldin concatenated.npy 2.5557
+
+Concatenated view - multi-view labels
+Silhouette concatenated.npy -0.1833
+Calinski-Harabasz concatenated.npy 4.6716
+Davies-Bouldin concatenated.npy 3.7025
+
+Level 3
+All views Silhouette
+Silhouette tfidf.npy -0.1477602267160246
+Silhouette files.npy 0.20981915880007523
+Silhouette bayes.npy -0.08329269462268192
+
+All views Calinski-Harabasz
+Calinski-Harabasz tfidf.npy 2.816228931993515
+Calinski-Harabasz files.npy 3.6713204972774856
+Calinski-Harabasz bayes.npy 0.7864280057462857
+
+All views Davies-Bouldin
+Davies-Bouldin tfidf.npy 3.169716236163946
+Davies-Bouldin files.npy 2.5812777567133556
+Davies-Bouldin bayes.npy 5.007956533165843
+
+TF-IDF view
+Silhouette tfidf.npy 0.03755168746295642
+Calinski-Harabasz tfidf.npy 5.662993442364725
+Davies-Bouldin tfidf.npy 2.074217536712195
+
+Files view
+Silhouette files.npy 0.28198285651441773
+Calinski-Harabasz files.npy 4.285998041972421
+Davies-Bouldin files.npy 2.1969502395259846
+
+Silhouette bayes.npy -0.0232
+Calinski-Harabasz bayes.npy 1.0764
+Davies-Bouldin bayes.npy 4.489
+
+Concatenated view
+Silhouette concatenated.npy 0.434
+Calinski-Harabasz concatenated.npy 9.597
+Davies-Bouldin concatenated.npy 1.903
+
+Concatenated view - multi-view labels
+Silhouette concatenated.npy -0.1478
+Calinski-Harabasz concatenated.npy 2.8162
+Davies-Bouldin concatenated.npy 3.1697
+
+Theses
+Multi-view
+level 4
+Silhouette tfidf.npy -0.2287
+Calinski-Harabasz tfidf.npy 0.7928
+Davies-Bouldin tfidf.npy 6.7353
+Silhouette bayes.npy -0.0717
+Calinski-Harabasz bayes.npy 1.0305
+Davies-Bouldin bayes.npy 4.6454
+Silhouette files.npy 0.0668
+Calinski-Harabasz files.npy 7.7663
+Davies-Bouldin files.npy 2.1987
+level level_5
+Silhouette tfidf.npy -0.2081
+Calinski-Harabasz tfidf.npy 1.115
+Davies-Bouldin tfidf.npy 4.7202
+Silhouette bayes.npy -0.0457
+Calinski-Harabasz bayes.npy 1.0259
+Davies-Bouldin bayes.npy 3.1093
+Silhouette files.npy 0.0704
+Calinski-Harabasz files.npy 3.1821
+Davies-Bouldin files.npy 1.9325
+level level_2
+Silhouette tfidf.npy -0.3875
+Calinski-Harabasz tfidf.npy 1.9394
+Davies-Bouldin tfidf.npy 8.0015
+Silhouette bayes.npy -0.1307
+Calinski-Harabasz bayes.npy 1.0144
+Davies-Bouldin bayes.npy 5.133
+Silhouette files.npy -0.0927
+Calinski-Harabasz files.npy 5.4354
+Davies-Bouldin files.npy 2.9257
+level level_1
+Silhouette tfidf.npy -0.6804
+Calinski-Harabasz tfidf.npy 5.3512
+Davies-Bouldin tfidf.npy 14.2193
+Silhouette bayes.npy -0.1015
+Calinski-Harabasz bayes.npy 1.0522
+Davies-Bouldin bayes.npy 5.5502
+Silhouette files.npy -0.1986
+Calinski-Harabasz files.npy 3.9293
+Davies-Bouldin files.npy 3.3584
+level level_3
+Silhouette tfidf.npy -0.2687
+Calinski-Harabasz tfidf.npy 1.5334
+Davies-Bouldin tfidf.npy 5.6766
+Silhouette bayes.npy -0.1304
+Calinski-Harabasz bayes.npy 0.9725
+Davies-Bouldin bayes.npy 4.742
+Silhouette files.npy -0.0049
+Calinski-Harabasz files.npy 6.7615
+Davies-Bouldin files.npy 2.5246
+
+TF-IDF
+level level_4
+Silhouette tfidf.npy -0.0244
+Calinski-Harabasz tfidf.npy 24.0501
+Davies-Bouldin tfidf.npy 2.6633
+level level_5
+Silhouette tfidf.npy 0.0967
+Calinski-Harabasz tfidf.npy 8.0037
+Davies-Bouldin tfidf.npy 1.2731
+level level_2
+Silhouette tfidf.npy -0.2267
+Calinski-Harabasz tfidf.npy 12.2262
+Davies-Bouldin tfidf.npy 4.5242
+level level_1
+Silhouette tfidf.npy -0.4054
+Calinski-Harabasz tfidf.npy 19.4988
+Davies-Bouldin tfidf.npy 6.4832
+level level_3
+Silhouette tfidf.npy -0.0764
+Calinski-Harabasz tfidf.npy 14.5426
+Davies-Bouldin tfidf.npy 3.2516
+
+Files
+level_4
+Silhouette files.npy 0.0835
+Calinski-Harabasz files.npy 8.1495
+Davies-Bouldin files.npy 2.1795
+level_5
+Silhouette files.npy 0.1091
+Calinski-Harabasz files.npy 3.7934
+Davies-Bouldin files.npy 1.7947
+level_2
+Silhouette files.npy -0.0716
+Calinski-Harabasz files.npy 5.6015
+Davies-Bouldin files.npy 2.9026
+level_1
+Silhouette files.npy -0.1699
+Calinski-Harabasz files.npy 4.2397
+Davies-Bouldin files.npy 3.331
+level_3
+Silhouette files.npy 0.0095
+Calinski-Harabasz files.npy 6.8077
+Davies-Bouldin files.npy 2.637
+
+Bayes
+level_4
+Silhouette bayes.npy -0.0339
+Calinski-Harabasz bayes.npy 1.1556
+Davies-Bouldin bayes.npy 4.4921
+level_5
+Silhouette bayes.npy 0.1141
+Calinski-Harabasz bayes.npy 2.1601
+Davies-Bouldin bayes.npy 0.6741
+level_2
+Silhouette bayes.npy -0.1095
+Calinski-Harabasz bayes.npy 1.3876
+Davies-Bouldin bayes.npy 3.7464
+level_1
+Silhouette bayes.npy -0.0652
+Calinski-Harabasz bayes.npy 1.6162
+Davies-Bouldin bayes.npy 2.3921
+level_3
+Silhouette bayes.npy -0.0896
+Calinski-Harabasz bayes.npy 1.2145
+Davies-Bouldin bayes.npy 4.477
+
+Concatenated
+level_4
+Silhouette concatenated.npy 0.0275
+Calinski-Harabasz concatenated.npy 20.257
+Davies-Bouldin concatenated.npy 2.8363
+level_5
+Silhouette concatenated.npy 0.0658
+Calinski-Harabasz concatenated.npy 21.9494
+Davies-Bouldin concatenated.npy 1.0449
+level_2
+Silhouette concatenated.npy -0.1775
+Calinski-Harabasz concatenated.npy 8.9747
+Davies-Bouldin concatenated.npy 5.9767
+level_1
+Silhouette concatenated.npy -0.3873
+Calinski-Harabasz concatenated.npy 19.2383
+Davies-Bouldin concatenated.npy 6.7526
+level_3
+Silhouette concatenated.npy -0.1088
+Calinski-Harabasz concatenated.npy 12.725
+Davies-Bouldin concatenated.npy 3.3157
+
+Concatenated - multi-view labels
+level_4
+Silhouette concatenated.npy -0.2287
+Calinski-Harabasz concatenated.npy 0.7928
+Davies-Bouldin concatenated.npy 6.7353
+level_5
+Silhouette concatenated.npy -0.2081
+Calinski-Harabasz concatenated.npy 1.115
+Davies-Bouldin concatenated.npy 4.7202
+level_2
+Silhouette concatenated.npy -0.3875
+Calinski-Harabasz concatenated.npy 1.9394
+Davies-Bouldin concatenated.npy 8.0015
+level_1
+Silhouette concatenated.npy -0.6804
+Calinski-Harabasz concatenated.npy 5.3512
+Davies-Bouldin concatenated.npy 14.2192
+level_3
+Silhouette concatenated.npy -0.2687
+Calinski-Harabasz concatenated.npy 1.5334
+Davies-Bouldin concatenated.npy 5.6766
+
+Organisms
+Multi-view
+level_4
+Silhouette tfidf.npy -0.1268
+Calinski-Harabasz tfidf.npy 0.9894
+Davies-Bouldin tfidf.npy 4.0798
+Silhouette bayes.npy -0.0246
+Calinski-Harabasz bayes.npy 1.0281
+Davies-Bouldin bayes.npy 3.3188
+Silhouette files.npy -0.0315
+Calinski-Harabasz files.npy 2.0247
+Davies-Bouldin files.npy 2.4705
+level_2
+Silhouette tfidf.npy -0.2902
+Calinski-Harabasz tfidf.npy 6.3385
+Davies-Bouldin tfidf.npy 5.1475
+Silhouette bayes.npy -0.081
+Calinski-Harabasz bayes.npy 0.9984
+Davies-Bouldin bayes.npy 5.1157
+Silhouette files.npy -0.2389
+Calinski-Harabasz files.npy 4.4959
+Davies-Bouldin files.npy 3.145
+level_1
+Silhouette tfidf.npy -0.3419
+Calinski-Harabasz tfidf.npy 9.1808
+Davies-Bouldin tfidf.npy 5.5744
+Silhouette bayes.npy -0.0936
+Calinski-Harabasz bayes.npy 1.0184
+Davies-Bouldin bayes.npy 5.3385
+Silhouette files.npy -0.2498
+Calinski-Harabasz files.npy 20.4292
+Davies-Bouldin files.npy 3.3459
+level_3
+Silhouette tfidf.npy -0.2223
+Calinski-Harabasz tfidf.npy 3.4371
+Davies-Bouldin tfidf.npy 6.3602
+Silhouette bayes.npy -0.064
+Calinski-Harabasz bayes.npy 1.0034
+Davies-Bouldin bayes.npy 5.0226
+Silhouette files.npy -0.0784
+Calinski-Harabasz files.npy 3.3996
+Davies-Bouldin files.npy 2.9773
+
+Concatenated multi-view
+level_4
+Silhouette concatenated.npy -0.1268
+Calinski-Harabasz concatenated.npy 0.9894
+Davies-Bouldin concatenated.npy 4.0798
+level_2
+Silhouette concatenated.npy -0.2902
+Calinski-Harabasz concatenated.npy 6.3385
+Davies-Bouldin concatenated.npy 5.1475
+level_1
+Silhouette concatenated.npy -0.2092
+Calinski-Harabasz concatenated.npy 20.3497
+Davies-Bouldin concatenated.npy 3.2356
+level_3
+Silhouette concatenated.npy -0.2223
+Calinski-Harabasz concatenated.npy 3.4371
+Davies-Bouldin concatenated.npy 6.3602
+
+Concatenated
+level_4
+Silhouette concatenated.npy 0.0919
+Calinski-Harabasz concatenated.npy 7.3691
+Davies-Bouldin concatenated.npy 2.1489
+level_2
+Silhouette concatenated.npy -0.118
+Calinski-Harabasz concatenated.npy 12.224
+Davies-Bouldin concatenated.npy 3.2353
+level_1
+Silhouette concatenated.npy -0.1945
+Calinski-Harabasz concatenated.npy 22.1848
+Davies-Bouldin concatenated.npy 3.1129
+level_3
+Silhouette concatenated.npy 0.0178
+Calinski-Harabasz concatenated.npy 9.5065
+Davies-Bouldin concatenated.npy 2.7589
+
+Bayes
+level_4
+Silhouette bayes.npy -0.0042
+Calinski-Harabasz bayes.npy 1.1995
+Davies-Bouldin bayes.npy 2.8557
+level_2
+Silhouette bayes.npy -0.0268
+Calinski-Harabasz bayes.npy 1.1703
+Davies-Bouldin bayes.npy 4.9577
+level_1
+Silhouette bayes.npy -0.0328
+Calinski-Harabasz bayes.npy 1.5127
+Davies-Bouldin bayes.npy 3.1175
+level_3
+Silhouette bayes.npy -0.0423
+Calinski-Harabasz bayes.npy 1.0659
+Davies-Bouldin bayes.npy 4.7632
+
+Files
+level_4
+Silhouette files.npy 0.1049
+Calinski-Harabasz files.npy 3.0488
+Davies-Bouldin files.npy 1.8251
+level_2
+Silhouette files.npy -0.0356
+Calinski-Harabasz files.npy 5.5027
+Davies-Bouldin files.npy 2.8498
+level_1
+Silhouette files.npy -0.1014
+Calinski-Harabasz files.npy 22.2398
+Davies-Bouldin files.npy 3.1188
+level_3
+Silhouette files.npy 0.0216
+Calinski-Harabasz files.npy 5.4344
+Davies-Bouldin files.npy 2.5253
+
+TF-IDF
+level_4
+Silhouette tfidf.npy 0.1526
+Calinski-Harabasz tfidf.npy 7.3894
+Davies-Bouldin tfidf.npy 1.5689
+level_2
+Silhouette tfidf.npy -0.1399
+Calinski-Harabasz tfidf.npy 10.8913
+Davies-Bouldin tfidf.npy 3.4297
+level_1
+Silhouette tfidf.npy -0.188
+Calinski-Harabasz tfidf.npy 16.0953
+Davies-Bouldin tfidf.npy 3.7627
+level_3
+Silhouette tfidf.npy -0.07
+Calinski-Harabasz tfidf.npy 8.3367
+Davies-Bouldin tfidf.npy 2.9658
+
