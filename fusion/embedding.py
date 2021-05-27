@@ -3,11 +3,19 @@ import json
 import os
 from collections import deque
 
+prefixes = []
+nodes, words_dic, node_words = {}, {}, {}
+node_parent, node_level, node_children, nodes_per_level = {}, {}, {}, {}
+id2node, data_files, assignments, tf_idf = {}, {}, {}, {}
+node_prob, words_prop, sparse = {}, {}, {}
+topic_file = 'topicTree.nodes.json'
+sparse_name = 'myData.sparse.txt'
+
 
 def load_nodes(name):
     n_trees = 0
     for prefix in prefixes:
-        with open(os.path.join(name, prefix, 'topicTree.nodes.json'), 'r') as read_file:
+        with open(os.path.join(name, prefix, topic_file), 'r') as read_file:
             j_nodes = json.load(read_file)
         q = deque()
         for node in j_nodes:
@@ -32,8 +40,8 @@ def load_nodes(name):
                 node_parent[child_id] = {node_id}
                 node_children[node_id].add(child_id)
                 q.append(child)
-    print(n_trees, ' trees found')
-    print(len(nodes), ' topics found')
+    print(n_trees, 'trees found')
+    print(len(nodes), 'topics found')
     for level in nodes_per_level:
         print(len(nodes_per_level[level]), 'topics in level', level)
 
@@ -82,7 +90,7 @@ def load_words(name):
 
 
 def load_sparse(name):
-    with open(os.path.join(name, 'myData.sparse.txt'), 'r') as read_file:
+    with open(os.path.join(name, sparse_name), 'r') as read_file:
         doc_words = read_file.read().split('\n')
     for i in data_files:
         sparse[i] = []
@@ -128,10 +136,3 @@ def get_words_prop(name):
     for node in nodes:
         if 'ROOT' in node_parent[node]:
             prob_dfs(node)
-
-
-prefixes = []
-nodes, words_dic, node_words = {}, {}, {}
-node_parent, node_level, node_children, nodes_per_level = {}, {}, {}, {}
-id2node, data_files, assignments, tf_idf = {}, {}, {}, {}
-node_prob, words_prop, sparse = {}, {}, {}
